@@ -9,18 +9,16 @@
  {
   <<
   \chords {
-  
+  a1:maj7 | d2:maj7 d:m | d1:maj7 | d:m |
+  a1:maj7 | d:maj7 | cis/a:7 | d2:maj7 e:7 |
+  d1:maj7 | cis2:m7 fis:m | b1:m | e2:7 d:m |
   
   }
   \relative a' {
-  \tempo 4 = 70
   \key a \major  
   \time 4/4
   
-  r1 |
-  r |
-  r |
-  r |
+  r1 |r |r | r |
 
   b8 cis d cis~ cis4. b16 cis |
   cis8 a4 a8~ a2 |
