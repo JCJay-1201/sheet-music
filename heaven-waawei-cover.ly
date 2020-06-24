@@ -44,7 +44,7 @@
     b:m7 | e:7 |
 
     r1 | d:maj7 | a:maj7 | gis2:m7 5- cis:7 | fis1:m | e2.:m7 a4: |
-    d1:maj7 | d:m | d:m | a:maj7 |
+    d1:m | d:maj7 | d:maj7 | a:maj7 |
 
     }
   
