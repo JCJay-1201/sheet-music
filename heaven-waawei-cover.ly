@@ -31,13 +31,13 @@
   }
   
   \alternative {
-  { e1:7 | a:maj7 | d2:maj7 d:m | d1:maj7 | d:m |}
-  { e:7 }}
+  {  e1:7 | a:maj7 | d2:maj7 d:m | d1:maj7 | d:m |}
+  { d1:maj7 |}}
 
-  d1:maj7 | f:dim7 |
-  cis:m7 | fis:7 |
-  d:maj7 | f:dim7 |
-  cis:m7 | d2:maj7 e:7 | e1:7 |
+  a:maj7 |
+  d:maj7 | a:maj7 |
+  d:m | cis2:m7 f:m |
+  f1 | e:7 | e:7 |
   b:m7 | e:7 |
 
   d:maj7 | a:maj7 | gis2:m7 5- cis:7 | fis1:m | e2.:m7 a4: |
@@ -87,10 +87,10 @@
   a8 f~ f e~e d~d e~ | e2. r4 |}
 
   \alternative {
-  { r1 | r | r | r | r |}
-  { e2 r4 r8. e16}}
+  {  r1 | r | r | r | r |}
+  { cis'8 b16 b~ b8 a a fis16 a~ a8 b |}}
 
-  cis'8 b16 b~ b8 a a fis16 a~ a8 b |
+  
   gis fis gis8. e16~ e4 r8 cis |
   cis d16 cis~ cis8 cis16 b d8. d16~ d8 e |
   cis2. r8 cis |
@@ -104,7 +104,7 @@
   a2 r2 |
 
   r1 | r | r | r |
-  r1 | r | r | r | r |  
+  r1 | r | r | r |  
 
   }
   >>
