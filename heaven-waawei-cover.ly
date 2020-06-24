@@ -22,7 +22,7 @@
   d1:maj7 | f:dim7 |
   cis:m7 | fis:7 |
   d:maj7 | f:dim7 |
-  cis:m7 | d2:maj7 e:7 |
+  cis:m7 | d:maj7 | e:7 |
 
   d1:maj7 | a:maj7 |
   d:maj7 | a:maj7 |
@@ -76,7 +76,7 @@
   d4 d fis8 a4 gis8~ |
   gis2. r4 |
   gis4 gis a8 gis4 a8~ |
-  a2 r4 r8. e16
+  a2. r4 | r2. r8. e16 |
   
   cis'8 b b a16 a~ a8 fis a b|
   gis fis fis8. e16~ e4 r16 cis cis e|
