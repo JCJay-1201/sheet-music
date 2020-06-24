@@ -43,7 +43,7 @@
     f1 | e:7 | e:7 |
     b:m7 | e:7 |
 
-    r1 | d:maj7 | a:maj7 | gis2:m7 5- cis:7 | fis1:m | d2.:maj7 a4:7 |
+    r1 | d:maj7 | a:maj7 | gis2:m7 5- cis:7 | fis1:m | d:maj7 |
     d1:m7+ | d:m | d:m | a:maj7 |
 
     }
