@@ -49,11 +49,16 @@
 
   \alternative {
   { e2. r4 |}
-  { e2 r4 r8. e16}
-  }
+  { e2 r4 r8. e16}}
 
-
-
+  cis'8 b b a16 a~ a8 fis a b|
+  gis fis fis8. e16~ e4 r16 cis cis e|
+  e8 d16 a'16~ a2 r8 a, |
+  b8. cis16~cis2 r8 cis |
+  cis d d e~ e d~ d d |
+  cis e gis a~a2 |
+  a8 f~ f e~e d~d e~ |
+  
   }
 
   \layout {}
