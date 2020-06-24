@@ -107,10 +107,10 @@
     r2. r8 cis |
     d a'~ a2 r4 |
     gis2~ gis8. a16~ a8. a16~ |
-    a2 r2 | r1 |
-
-    r1 | r | r | r |
-    r1 | r | r | r |  
+    a2 r2 | 
+    
+    r8 cis16 b cis4~ cis8 a~ a4 |b8. e16~ e8 cis~ cis4 r8 a | d4. cis8~ cis4 gis' | e2 r8 d cis a | 
+    fis4. e8~ e4 d4 | f4. e8~ e4 a | cis1~ | cis | a, |  
 
     }
   >>
