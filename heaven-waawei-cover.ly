@@ -19,7 +19,8 @@
   b4. a4 r8 cis e~ |
   e2. cis8 b~ |
   b2 r|
-
+  
+  \repeat volta 2 {
   b8 cis d cis~ cis4 b8 b16 cis |
   cis8 a8~ a2 r4 |
   b8 b a cis16 cis~ cis4. cis16 cis |
@@ -28,7 +29,7 @@
   b4. a4 r8 cis e~ |
   e2 r4 gis,8 a16 a~|
   a2 r|
-
+  
   cis'8 a a fis16 fis~ fis8 d cis'8. gis16~ |
   gis2. r4 |
   gis8 a16 gis gis8 e gis8. a16~ a8 gis |
@@ -45,9 +46,9 @@
   cis d d e~ e d~ d d |
   cis e gis a~a2 |
   a8 f~ f e~e d~d e~ |
-  e2. r4 |
-
-
+  }
+  
+  
 
 
   }
