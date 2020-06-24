@@ -8,9 +8,15 @@
 \score
  { 
   \relative a' {
-  \tempo 4 = 100
+  \tempo 4 = 70
   \key a \major  
   \time 4/4
+  
+  r1 |
+  r |
+  r |
+  r |
+
   b8 cis d cis~ cis4. b16 cis |
   cis8 a4 a8~ a2 |
   cis8 b16 b16 b8 cis~ cis a a fis |
@@ -48,17 +54,25 @@
   a8 f~ f e~e d~d e~ |}
 
   \alternative {
-  { e2. r4 |}
+  { e2. r4 | r1 | r | r | r |}
   { e2 r4 r8. e16}}
 
-  cis'8 b b a16 a~ a8 fis a b|
-  gis fis fis8. e16~ e4 r16 cis cis e|
-  e8 d16 a'16~ a2 r8 a, |
-  b8. cis16~cis2 r8 cis |
-  cis d d e~ e d~ d d |
-  cis e gis a~a2 |
-  a8 f~ f e~e d~d e~ |
-  
+  cis'8 b16 b~ b8 a a fis16 a~ a8 b |
+  gis fis gis8. e16~ e4 r8 cis |
+  cis d16 cis~ cis8 cis16 b d8. d16~ d8 e |
+  cis2. r8 cis |
+  cis d d e~ e d r d |
+  cis e gis a~ a4 r |
+  a8 f~ f e~ e d~ d f |
+  e1 |
+  r2. r8 cis |
+  d a'~ a2 r4 |
+  gis2~ gis8. a16~ a8. a16~ |
+  a2 r2 |
+
+  r1 | r | r | r |
+  r1 | r | r | r | r |  
+
   }
 
   \layout {}
