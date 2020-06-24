@@ -30,6 +30,14 @@
   b2 r4 gis8 a16 a~|
   a2 r|
 
+  cis'8 a a fis16 fis~ fis8 d cis'8. gis16~ |
+  gis2. r4 |
+  gis8 a16 gis gis8 e gis8. a16~ a8 gis |
+  gis4. fis8~ fis2 |
+  d4 d fis8 a4 gis8~ |
+  gis2. r4 |
+  gis4 gis a8 gis4 a8~ |
+  a2 r4 r8. e16
   
   }
 
