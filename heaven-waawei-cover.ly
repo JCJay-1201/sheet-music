@@ -6,9 +6,10 @@
 
 
 \score
- {
+ { 
   <<
-  \chords {
+  
+  \chords { 
   
     a1:maj7 | d2:maj7 d:m | d1:maj7 | d:m |
 
@@ -46,6 +47,7 @@
     d1:maj7 | d:m | d:m | a:maj7 |
 
     }
+  
   \relative a' { \key a \major  \time 4/4
   
     r1 |r |r | r |
