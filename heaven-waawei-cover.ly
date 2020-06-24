@@ -39,7 +39,7 @@
 
     a:maj7 |
     d:maj7 | a:maj7 |
-    d:m | cis2:m7 f:m |
+    d:m | cis2:m7 fis:m |
     f1 | e:7 | e:7 |
     b:m7 | e:7 |
 
