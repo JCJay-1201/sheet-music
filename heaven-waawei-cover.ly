@@ -108,6 +108,8 @@
 
   }
   >>
-  \layout {}
+  \layout {
+    indent = #0
+    line-width = #190 } 
   \midi {}
 }
