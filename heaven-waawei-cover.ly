@@ -110,7 +110,7 @@
   }
   >>
   \layout {
-    \override ChordName.color = #red
+    \override ChordName.color = #(x11-color 'navy)
     indent = #0
     line-width = #190 } 
   \midi {}
