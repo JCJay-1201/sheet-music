@@ -7,7 +7,11 @@
 
 \score
  {
+  <<
+  \chords {
   
+  
+  }
   \relative a' {
   \tempo 4 = 70
   \key a \major  
@@ -75,7 +79,7 @@
   r1 | r | r | r | r |  
 
   }
-
+  >>
   \layout {}
   \midi {}
 }
