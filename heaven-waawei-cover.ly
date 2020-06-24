@@ -6,7 +6,8 @@
 
 
 \score
- { 
+ {
+  
   \relative a' {
   \tempo 4 = 70
   \key a \major  
