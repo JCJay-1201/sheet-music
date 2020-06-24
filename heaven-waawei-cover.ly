@@ -48,7 +48,7 @@
 
     }
   
-  \relative a' { \key a \major  \time 4/4 \tempo 4 = 120
+  \relative a' { \key a \major  \time 4/4 
   
     b8 cis fis cis~ cis b~ b a | <fis' a cis>4 d'8 b~ b4 r8 a16 b |
     cis4 d8 cis r8 b~ b f~ | f4 r8 a16 b c8 b~ b a |
