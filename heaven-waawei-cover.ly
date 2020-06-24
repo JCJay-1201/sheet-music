@@ -45,10 +45,13 @@
   b8. cis16~cis2 r8 cis |
   cis d d e~ e d~ d d |
   cis e gis a~a2 |
-  a8 f~ f e~e d~d e~ |
+  a8 f~ f e~e d~d e~ |}
+
+  \alternative {
+  { e2. r4 |}
+  { e2 r4 r8. e16}
   }
-  
-  
+
 
 
   }
