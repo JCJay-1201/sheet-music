@@ -27,7 +27,7 @@
   d1:maj7 | a:maj7 |
   d:maj7 | a:maj7 |
   d:m | cis2:m7 fis:m7 |
-  f2. e4:7 |
+  f1 | e1:7 |
   }
   
   \alternative {
@@ -84,10 +84,10 @@
   b8. cis16~cis2 r8 cis |
   cis d d e~ e d~ d d |
   cis e gis a~a2 |
-  a8 f~ f e~e d~d e~ |}
+  a8 f~ f e~e d~d e~ | e2. r4 |}
 
   \alternative {
-  { e2. r4 | r1 | r | r | r |}
+  { r1 | r | r | r | r |}
   { e2 r4 r8. e16}}
 
   cis'8 b16 b~ b8 a a fis16 a~ a8 b |
