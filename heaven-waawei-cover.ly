@@ -18,6 +18,16 @@
   
   a1:maj7 | d2:maj7 a:7 | d:maj7 d:m7+| b:m7 e:7 |
   d1:maj7 | cis2:m7 fis:m | b2:m e:7 | d:m a:maj7 |
+
+  d1:maj7 | f:dim7 |
+  cis:m7 | fis:7 |
+  d:maj7 | f:dim7 |
+  cis:m7 | d2:maj7 e:7 |
+
+  d1:maj7 | a:maj7 |
+  d:maj7 | a:maj7 |
+  d:m | cis2:m7 fis:m7 |
+  f1 | e:7 | e:7
   
     }
   
