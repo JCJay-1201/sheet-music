@@ -50,9 +50,10 @@
   
   \relative a' { \key a \major  \time 4/4
   
-    r1 |r |r | r |
+    b8 cis fis cis~ cis b~ b a | <fis' a cis>4 d'8 b~ b4 r8 a16 b |
+    cis4 d8 cis r8 b~ b f~ | f4 r8 a16 b c8 b~ b a |
 
-    b8 cis d cis~ cis4. b16 cis |
+    b,8 cis d cis~ cis4. b16 cis |
     cis8 a4 a8~ a2 |
     cis8 b16 b16 b8 cis~ cis a a fis |
     cis' b4 cis8 b4 r8 fis' |
