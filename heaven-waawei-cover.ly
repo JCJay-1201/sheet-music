@@ -11,7 +11,7 @@
   \chords {
   a1:maj7 | d2:maj7 d:m | d1:maj7 | d:m |
 
-  a1:maj7 | d:maj7 | cis/a:7 | d2:maj7 e:7 |
+  a1:maj7 | d:maj7 | cis:7/a | d2:maj7 e:7 |
   d1:maj7 | cis2:m7 fis:m | b1:m | e2:7 d:m |
 
   \repeat volta 2 {
