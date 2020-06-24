@@ -26,8 +26,7 @@
   b8 b a cis~ cis b4 a8 |
   fis' gis a e~ e a,4 b8~ |
   b4. a4 r8 cis e~ |
-  e2. cis8 b~ |
-  b2 r4 gis8 a16 a~|
+  e2 r4 gis,8 a16 a~|
   a2 r|
 
   cis'8 a a fis16 fis~ fis8 d cis'8. gis16~ |
@@ -47,6 +46,9 @@
   cis e gis a~a2 |
   a8 f~ f e~e d~d e~ |
   e2. r4 |
+
+
+
 
   }
 
