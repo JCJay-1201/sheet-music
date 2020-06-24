@@ -91,8 +91,9 @@
       }
 
     \alternative {
-      { r1 | r | r | r | r |}
-      { cis'8 b16 b~ b8 a a fis16 a~ a8 b |}
+      { r1 | b8 cis fis cis~ cis b~ b a | <fis' a cis>4 d'8 b~ b4 r8 a16 b |
+    cis4 d8 cis r8 b~ b f~ | f4 r8 a16 b c8 b~ b a |}
+      { cis8 b16 b~ b8 a a fis16 a~ a8 b |}
       }
 
   
