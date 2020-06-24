@@ -1,5 +1,5 @@
 \header {
-  title = "彼個所在-cover"
+  title = "彼個所在-Waa Wei"
   composer = ""
 }
 
@@ -27,10 +27,22 @@
   d1:maj7 | a:maj7 |
   d:maj7 | a:maj7 |
   d:m | cis2:m7 fis:m7 |
-  f1 | e:7 | e:7
+  f2. e4:7 |
+  }
   
-    }
-  
+  \alternative {
+  { e1:7 | a:maj7 | d2:maj7 d:m | d1:maj7 | d:m |}
+  { e:7 }}
+
+  d1:maj7 | f:dim7 |
+  cis:m7 | fis:7 |
+  d:maj7 | f:dim7 |
+  cis:m7 | d2:maj7 e:7 | e1:7 |
+  b:m7 | e:7 |
+
+  d:maj7 | a:maj7 | gis2:m7 5- cis:7 | fis1:m | e2.:m7 a4: |
+  d1:maj7 | d:m | d:m | a:maj7 |
+
   }
   \relative a' {
   \key a \major  
