@@ -9,6 +9,7 @@
  {
   <<
   \chords {
+  
   a1:maj7 | d2:maj7 d:m | d1:maj7 | d:m |
 
   a1:maj7 | d:maj7 | cis:7/a | d2:maj7 e:7 |
@@ -109,6 +110,7 @@
   }
   >>
   \layout {
+    \override ChordName.color = #red
     indent = #0
     line-width = #190 } 
   \midi {}
