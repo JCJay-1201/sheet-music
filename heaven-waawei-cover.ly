@@ -10,8 +10,16 @@
   <<
   \chords {
   a1:maj7 | d2:maj7 d:m | d1:maj7 | d:m |
+
   a1:maj7 | d:maj7 | cis/a:7 | d2:maj7 e:7 |
   d1:maj7 | cis2:m7 fis:m | b1:m | e2:7 d:m |
+
+  \repeat volta 2 {
+  
+  a1:maj7 | d2:maj7 a:7 | d:maj7 d:m7+| b:m7 e:7 |
+  d1:maj7 | cis2:m7 fis:m | b2:m e:7 | d:m a:maj7 |
+  
+    }
   
   }
   \relative a' {
