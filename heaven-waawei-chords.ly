@@ -60,7 +60,13 @@
     d,8 a' d fis~ fis4 <d f a c> | b8 d fis a e gis <b d>4 | d,8 fis a cis~ cis d~ d4 |
     cis,8 e gis b fis, cis' a'4 | b8 fis b d~ d4 <e, gis b d> |
     d8 f <a d> f <a, e' gis>2 | d,8 a' d fis <fis a cis>2 | f,8 d' f gis <gis b d>2 |
-    cis,8 e gis b <gis b cis e>2 |
+    cis,8 e gis b <gis b cis e>2 | fis,8 cis' fis ais <fis ais cis e>4 fis, | d8 a' d fis a d cis d |
+    f,, d' f a b d b d | cis, e gis b gis b gis cis | d,, a' d fis a d cis d | e,, b' e gis <e gis b d>4 <b' e gis> |
+
+    <d,, d'> \chordmode {fis,:m fis,:m fis,:m } | <a' a'> \chordmode {cis:m/gis cis:m/gis cis8:m/gis} gis' |
+    <d, d'>4 \chordmode {fis,8:m} f' \chordmode {fis,4:m fis,:m } | <a, a'> \chordmode {cis8:m/gis} gis' \chordmode {cis4:m/gis cis:m/gis } |
+    <d, d'>4 \chordmode {f,:1.3.6 d:m/a f,:1.3.6} | <cis cis'>4 <gis'' b cis e> <fis a cis e> <fis, fis'> |
+    <f f'> <a' e'> <a c g'> <a c f> | <e, e'> <gis' b d> <gis b e> <d' gis b> | <e,, e'>1
   
     \repeat volta 2 {
       
