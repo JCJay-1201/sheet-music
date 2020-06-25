@@ -1,5 +1,5 @@
 \header {
-  title = "彼個所在-Waa Wei"
+  title = "彼個所在-Waa Wei-伴奏"
   composer = ""
 }
 
@@ -48,9 +48,9 @@
 
     }
   
-  \relative a' { \key a \major  \time 4/4 
+  \relative a { \key a \major  \time 4/4 \clef bass
   
-    b8 cis fis cis~ cis b~ b a | <fis' a cis>4 d'8 b~ b4 r8 a16 b |
+    a8 e a <gis cis e>~ <gis cis e>2 | <d fis a cis>4. <d f a d>8~ <d f a d>2 |
     cis4 d8 cis r8 b~ b f~ | f4 r8 a16 b c8 b~ b a |
 
     b,8 cis d cis~ cis4. b16 cis |
