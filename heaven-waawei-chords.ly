@@ -51,23 +51,16 @@
   \relative a { \key a \major  \time 4/4 \clef bass
   
     a8 e a <gis cis e>~ <gis cis e>2 | <d fis a cis>4. <d f a d>8~ <d f a d>2 |
-    cis4 d8 cis r8 b~ b f~ | f4 r8 a16 b c8 b~ b a |
+    d8 fis a cis~ cis d~ d4 | d,8 f <a d>2. |
 
-    b,8 cis d cis~ cis4. b16 cis |
-    cis8 a4 a8~ a2 |
-    cis8 b16 b16 b8 cis~ cis a a fis |
-    cis' b4 cis8 b4 r8 fis' |
-    fis gis a e~ e a,4 b8~ |
-    b4. a4 r8 cis e~ |
-    e2. cis8 b~ |
-    b2 r|
+    
   
     \repeat volta 2 {
       
       }
 
     \alternative {
-      { |}
+      { }
       { }
       }
 
