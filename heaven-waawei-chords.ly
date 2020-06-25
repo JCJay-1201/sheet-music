@@ -48,15 +48,19 @@
 
     }
   
-  \relative a { \key a \major  \time 4/4 \clef bass
+  \relative a, { \key a \major  \time 4/4 \clef bass
   
-    a8 e a <gis cis e>~ <gis cis e>2 | <d fis a cis>4. <d f a d>8~ <d f a d>2 |
+    a8 e' a <gis cis e>~ <gis cis e>2 | <d fis a cis>4. <d f a d>8~ <d f a d>2 |
     d8 fis a cis~ cis d~ d4 | d,8 f <a d>2. |
 
     a,8 e' a gis~ gis <gis cis e>~ <gis cis e>4 | d8 fis a cis~ cis d~ d4 |
-    a,8 cis f b~ b cis e4 | d,8 fis a d e gis b4 | d8 fis a cis~ cis d~ d4 |
-
-    
+    a,8 cis f b~ b cis e4 | d,8 fis a d e, gis b4 | d,8 fis a cis~ cis d~ d4 |
+    cis,8 e gis b fis, cis' a'4 | b,8 fis' b d~ d2 | e,8 gis <b d>4 <d, f a d>2 |
+    a8 e' a gis~ gis <cis e>~ <cis e>4 | d,8 fis <a cis>4 <a, e' g>2 |
+    d,8 a' d fis~ fis4 <d f a c> | b8 d fis a e gis <b d>4 | d,8 fis a cis~ cis d~ d4 |
+    cis,8 e gis b fis, cis' a'4 | b8 fis b d~ d4 <e, gis b d> |
+    d8 f <a d> f <a, e' gis>2 | d,8 a' d fis <fis a cis>2 | f,8 d' f gis <gis b d>2 |
+    cis,8 e gis b <gis b cis e>2 |
   
     \repeat volta 2 {
       
