@@ -63,54 +63,16 @@
     b2 r|
   
     \repeat volta 2 {
-      b8 cis d cis~ cis4 b8 b16 cis |
-      cis8 a8~ a2 r4 |
-      b8 b a cis16 cis~ cis4. cis16 cis |
-      b8 b a cis~ cis b4 a8 |
-      fis' gis a e~ e a,4 b8~ |
-      b4. a4 r8 cis e~ |
-      e2 r4 gis,8 a16 a~|
-      a2 r|
-  
-      cis'8 a a fis16 fis~ fis8 d cis'8. gis16~ |
-      gis2. r4 |
-      gis8 a16 gis gis8 e gis8. a16~ a8 gis |
-      gis4. fis8~ fis2 |
-      d4 d fis8 a4 gis8~ |
-      gis2. r4 |
-      gis4 gis a8 gis4 a8~ |
-      a2. r4 | r2. r8. e16 |
-  
-      cis'8 b b a16 a~ a8 fis a b|
-      gis fis fis8. e16~ e4 r16 cis cis e|
-      e8 d16 a'16~ a2 r8 a, |
-      b8. cis16~cis2 r8 cis |
-      cis d d e~ e d~ d d |
-      cis e gis a~a2 |
-      a8 f~ f e~e d~d e~ | e2. r4 |
+      
       }
 
     \alternative {
-      { r1 | b8 cis fis cis~ cis b~ b a | <fis' a cis>4 d'8 b~ b4 r8 a16 b |
-    cis4 d8 cis r8 b~ b f~ | f4 r8 a16 b c8 b~ b a |}
-      { cis8 b16 b~ b8 a a fis16 a~ a8 b |}
+      { |}
+      { }
       }
 
   
-    gis fis gis8. e16~ e4 r8 cis |
-    cis d16 cis~ cis8 cis16 b d8. d16~ d8 e |
-    cis2. r8 cis |
-    cis d d e~ e d r d |
-    cis e gis a~ a4 r |
-    a8 f~ f e~ e d~ d f |
-    e1 |
-    r2. r8 cis |
-    d a'~ a2 r4 |
-    gis2~ gis8. a16~ a8. a16~ |
-    a2 r2 | 
-    
-    r8 cis16 b cis4~ cis8 a~ a4 |b8. e16~ e8 cis~ cis4 r8 a | d4. cis8~ cis4 gis' | e2 r8 d cis a | 
-    fis'4. e8~ e4 d4 | f4. e8~ e4 a, | cis1~ | cis | a, |  
+     
 
     }
   >>
