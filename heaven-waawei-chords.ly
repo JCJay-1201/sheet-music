@@ -53,6 +53,9 @@
     a8 e a <gis cis e>~ <gis cis e>2 | <d fis a cis>4. <d f a d>8~ <d f a d>2 |
     d8 fis a cis~ cis d~ d4 | d,8 f <a d>2. |
 
+    a,8 e' a gis~ gis <gis cis e>~ <gis cis e>4 | d8 fis a cis~ cis d~ d4 |
+    a,8 cis f b~ b cis e4 | d,8 fis a d e gis b4 | d8 fis a cis~ cis d~ d4 |
+
     
   
     \repeat volta 2 {
