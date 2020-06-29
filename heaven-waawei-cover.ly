@@ -110,7 +110,7 @@
     a2 r2 | 
     
     r8 cis16 b cis4~ cis8 a~ a4 |b8. e16~ e8 cis~ cis4 r8 a | d4. cis8~ cis4 gis' | e2 r8 d cis a | 
-    fis'4. e8~ e4 d4 | f4. e8~ e4 a, | cis1~ | cis | a, |  
+    fis'4. e8~ e4 d4 | f4. e8~ e4 a, | <cis cis,>1~ | <cis cis,> | <a a,> |  
 
     }
   >>
