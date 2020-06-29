@@ -66,7 +66,9 @@
     <d,, d'> \chordmode {fis,:m fis,:m fis,:m } | <a' a'> \chordmode {cis:m/gis cis:m/gis cis8:m/gis} gis' |
     <d, d'>4 \chordmode {fis,8:m} f' \chordmode {fis,4:m fis,:m } | <a, a'> \chordmode {cis8:m/gis} gis' \chordmode {cis4:m/gis cis:m/gis } |
     <d, d'>4 \chordmode {f,:1.3.6 d:m/a f,:1.3.6} | <cis cis'>4 <gis'' b cis e> <fis a cis e> <fis, fis'> |
-    <f f'> <a' e'> <a c g'> <a c f> | <e, e'> <gis' b d> <gis b e> <d' gis b> | <e,, e'>1
+    <f f'> <a' e'> <a c g'> <a c f> | <e, e'> <gis' b d> <gis b e> <d' gis b> | <e,, e'>1 |
+
+    
   
     \repeat volta 2 {
       
