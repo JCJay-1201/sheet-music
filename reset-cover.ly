@@ -15,7 +15,7 @@
     c bes r f f g bes c |
 
     f4 d8 c c4 bes8 c | f4 d8 c c4. bes16 c | d8 c d f f4 bes,8 c | d c d g f4 f,8 g | f'4 d8 c c4 bes8 c |
-    f4 d8 c c4. bes16 c | d8 c d f f4 bes,8 c | d c d g f2 | r2 r8 bes r16 a16~ a8 | f2~ f8 ees' r16 d8 
+    f4 d8 c c4. bes16 c | d8 c d f f4 bes,8 c | d c d g f2 | r2 r8 bes8~ bes16 a8. | f2~ f8 ees' r16 d8 
   }
 
   \layout {}
