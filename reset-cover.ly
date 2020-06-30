@@ -28,9 +28,19 @@
     bes8 bes16 c~ c4 r8 f,16 f bes bes a f | c'8 bes~ bes4 r8 f16 f bes bes a f |
     bes8 bes16 c~ c2 d8 c | c bes c bes bes f16 f bes bes a f |
     bes8 bes16 c~ c4 r8 f,16 f bes bes a f | c'8 bes~ bes4 r8 f16 f bes bes a f |
-    bes8 bes16 c~ c4 r8 f,16 f bes bes a f | c'8 bes r bes r4 r8 bes |
+    bes8 bes16 c~ c4 r8 f,16 f bes8  a16 f | c'8 bes r bes r4 r8 bes |
 
-    
+    f' d f d f d c c~ |c d d2 r8 bes | f' d f d f d c c~ | c bes~ bes2 r8 bes |
+    f' d f d f d c c~ |c d d2 bes8 bes | d4 ees8 ees d4 ees |
+    <<{ g f <ees f,>8 }
+    \\
+    { r2 f,16 f g8 bes g }>>
+
+    f'4 d8 c c4 bes8 c | f4 d8 c c4. bes16 c | d8 c d f f4 bes,8 c | d c d g f4 f,8 g | f'4 d8 c c4 bes8 c |
+    f8 f d c c4. bes16 c | d8 c d f f4 bes,8 c | d c d g f2 |
+    r4 
+
+
     
   }
 
