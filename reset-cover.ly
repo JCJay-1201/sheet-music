@@ -43,7 +43,7 @@
 
     f' d f d f d c c~ |c d d2 r8 bes | f' d f d f d c c~ | c bes~ bes2 r8 bes |
     f' d f d f d c c~ |c d d2 bes8 bes | d4 ees8 ees d4 ees |
-    <<{ g f ees2 }
+    <<{ g f d2 }
     \\
     { r2 f,16 f g8 bes g }>>
 
