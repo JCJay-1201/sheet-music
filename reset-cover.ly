@@ -65,7 +65,7 @@
     << {d c d g f4 r} \\ {r2 \tuplet 3/4 {f16 f f f d g} } >> | f2 \tuplet 3/4 {f16 f f f d g} |
     f2 \tuplet 3/4 {c16 c c } c4 | c8 c c bes ees d c bes | bes4 r \tuplet 3/4 {f'16 f f f d g} |
     f2 \tuplet 3/4 {f16 f f f d g} | f2 \tuplet 3/4 {c16 c c } c4 | c8 c c bes ees d c bes |
-    bes4. d8 c4 bes8 bes | c2. r4 | r1 | r | r |
+    bes4. d8 c4 bes8 bes | bes2. r4 | r1 | r | r |
 
 
     
