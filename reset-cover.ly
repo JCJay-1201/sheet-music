@@ -4,7 +4,13 @@
 }
 
 \score {
-
+  <<
+  \chords { r1 | ees | f: sus4 | g:m7 | d:m7 | ees | f: sus4 | g:m7 | d:m7 | ees | f: sus4 | g:m7 | d:m7 |
+   ees | f: sus4 | g:m7 | d:m7 | ees | f: sus4 | g:m7 | d:m7 | ees | f: sus4 | g:m7 | d:m7 |
+    ees | f: sus4 | g:m7 | d:m7 | ees | f: sus4 | g:m7 | d:m7 | ees | f: sus4 | g:m7 | d:m7 |
+     ees | f: sus4 | g:m7 | d: ees | f: sus4 | g:m7 | d:m7 | ees | f: sus4 | g:m7 | d:m7 | 
+  
+  }
   
   \relative c' { \key bes \major \time 4/4 \tempo 4 = 100
 
@@ -44,7 +50,7 @@
 
 
     
-  }
+  } >>
 
   \layout {}
   \midi {}
