@@ -12,7 +12,9 @@
     ees | f: sus4 | g:m7 | d:m7 | ees | f: sus4 | g:m7 | d:m7 | ees | f: sus4 | g:m7 | d:m7 |
     ees | f: sus4 | g:m7 | d:m7 | ees | f: sus4 | g:m7 | d:m7 | ees | f: sus4 | g:m7 | d:m7 |
     ees | f: sus4 | g:m7 | d:m7 | ees | f: sus4 | g:m7 | d:m7 | ees | f: sus4 | g:m7 | d:m7 |
-    ees | f: sus4 | g:m7 | d:m7 | ees | f: sus4 | g:m7 | d:m7 | ees | f: sus4 | g:m7 | d:m7 | 
+    ees | f: sus4 | g:m7 | d:m7 | ees | f: sus4 | g:m7 | d:m7 | ees | f: sus4 | g:m7 | d:m7 |
+    ees | f: sus4 | g:m7 | d:m7 | ees | f: sus4 | g:m7 | d:m7 | ees | f: sus4 | g:m7 | d:m7 |
+    ees | f: sus4 | g:m7 | d:m7 | 
   
   }
   
@@ -57,6 +59,13 @@
     bes2. r8 bes | bes c d bes f'4 d~ | d2. r8 bes | bes c d bes d4 c8 bes~ |
     bes2. r8 bes | bes c d bes f'4 d~ | d2. r8 bes | << { g' f f f d4 r } \\ { r4. f,8 f g bes c} >> |
 
+    f4 d8 c c4 bes8 c | f4 d8 c c4. bes16 c | d8 c d f f4 bes,8 c | d c d g f4 f,8 g | f'4 d8 c c4 bes8 c |
+    f4 d8 c c4. bes16 c | d8 c d f f4 bes,8 c |
+
+    << {d c d g f4 r} \\ {r2 \tuplet 3/4 {f16 f f f d g} } >> | f2 \tuplet 3/4 {f16 f f f d g} |
+    f2 \tuplet 3/4 {c16 c c } c4 | c8 c c bes ees d c bes | bes4 r \tuplet 3/4 {f'16 f f f d g} |
+    f2 \tuplet 3/4 {f16 f f f d g} | f2 \tuplet 3/4 {c16 c c } c4 | c8 c c bes ees d c bes |
+    bes4. d8 c4 bes8 bes | c2. r4 | r1 | r | r |
 
 
     
