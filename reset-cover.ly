@@ -4,6 +4,8 @@
 }
 
 \score {
+
+  
   \relative c' { \key bes \major \time 4/4 \tempo 4 = 100
 
     f''4 d8 c c4 bes8. (bes16 | f'4) d8 c c4 bes | c4. bes8~ bes a16~ a8 f16~ f8 | f4. f,8 f g bes c |
