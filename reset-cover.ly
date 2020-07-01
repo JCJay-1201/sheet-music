@@ -5,10 +5,11 @@
 
 \score {
   <<
-  \chords { ees1 | f: sus4 | g:m7 | d:m7 | ees | f: sus4 | g:m7 | d:m7 | ees | f: sus4 | g:m7 | d:m7 |
-   ees | f: sus4 | g:m7 | d:m7 | ees | f: sus4 | g:m7 | d:m7 | ees | f: sus4 | g:m7 | d:m7 |
+  \chords { 
+    ees1| f: sus4 | g:m7 | d:m7 | ees | f: sus4 | g:m7 | d:m7 | ees | f: sus4 | g:m7 | d:m7 |
     ees | f: sus4 | g:m7 | d:m7 | ees | f: sus4 | g:m7 | d:m7 | ees | f: sus4 | g:m7 | d:m7 |
-    ees | f: sus4 | g:m7 | d:m7| ees | f: sus4 | g:m7 | d:m7 | ees | f: sus4 | g:m7 | d:m7 | 
+    ees | f: sus4 | g:m7 | d:m7 | ees | f: sus4 | g:m7 | d:m7 | ees | f: sus4 | g:m7 | d:m7 |
+    ees | f: sus4 | g:m7 | d:m7 | ees | f: sus4 | g:m7 | d:m7 | ees | f: sus4 | g:m7 | d:m7 | 
   
   }
   
