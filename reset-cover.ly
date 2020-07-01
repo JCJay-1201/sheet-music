@@ -49,7 +49,8 @@
 
     f'4 d8 c c4 bes8 c | f4 d8 c c4. bes16 c | d8 c d f f4 bes,8 c | d c d g f4 f,8 g | f'4 d8 c c4 bes8 c |
     f8 f d c c4. bes16 c | d8 c d f f4 bes,8 c | d c d g f2 |
-    r4 d8 d d d f d | d4 c8 c d bes bes bes | bes4 d8 d d d f d | d4 c8 c d bes bes bes | bes2. r8 bes | 
+    
+    r4 d8 d d d f d | d4 c8 c d bes bes bes | bes4 d8 d d d f d | d4 c8 c d bes bes bes | bes4 bes8  
     bes c d bes f'4 d~ | d2. r8 bes | bes c d bes d4 c8 bes~ | bes2. r8 bes | 
 
 
