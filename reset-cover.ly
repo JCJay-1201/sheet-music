@@ -55,7 +55,7 @@
     bes4 d8 d d d f d | d4 c8 c d bes bes bes | bes4 d8 d d d f d | d4 c8 c d bes bes bes |
      
     bes2. r8 bes | bes c d bes f'4 d~ | d2. r8 bes | bes c d bes d4 c8 bes~ |
-    bes2. r8 bes | bes c d bes f'4 d~ | 
+    bes2. r8 bes | bes c d bes f'4 d~ | d2. r8 bes | << { g' f f f d4 r } \\ { r4. f,8 f g bes c} >> |
 
 
 
