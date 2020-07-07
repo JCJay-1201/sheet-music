@@ -6,9 +6,9 @@
 \score {
   <<
   \relative g' { \key g \major \time 4/4 \tempo 4=70
-    r1 | r |
-    r | a4 b8 a b4 a | b2. r4 | a b a b | e, b' a b | e, a8 b a4 b |
-    a b a b~ | b2. r4 |
+    c,16 e a b8 c,16 e a8 b16 g a8 b8. | r1 | r | 
+    a8 b16 a b8 a b4. r8 | a b a b e, b' a b |
+    e, a16 b a8 b a b a b~ | b4. r8 
 
 
   }
