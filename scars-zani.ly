@@ -12,7 +12,7 @@
     
     r16 g g'8 g16 fis g \tuplet 3/4 { fis d b~ } b4.
     g16 g'8 fis16 g fis8 d a16 b8 a b16 r b2
-    e,4 e8 b' a2 
+    e,8. e8 b' a2 
 
 
 
