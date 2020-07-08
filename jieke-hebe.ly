@@ -43,7 +43,7 @@
   r4 ees'8 c~ c bes aes ees | r4 ees'8 c~ c bes aes des~ |
   des2 r4 c8 aes~ |
 
-  aes2. bes8 ees,~ | ees2 r4 f | c2. r4 |
+  aes2. bes8 ees,~ | ees2 r4 f | c2. r4
 
    
     
