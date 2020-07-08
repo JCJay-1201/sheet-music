@@ -4,7 +4,7 @@
 }
 
 \score { <<
-  \relative aes' { \key aes\major \tempo 4 = 90 \time 4/4
+  \relative aes' { \key aes\major \tempo 4 = 95 \time 4/4
 
   r4 c8 ees f g aes aes~ | aes g~ g aes~ aes bes~ bes c,~ |
   c4 r8 des~ des ees r f,~ | f2. r4 |
