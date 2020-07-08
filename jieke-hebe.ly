@@ -12,9 +12,13 @@
   c4 r8 des~ des ees r f,~ | f aes2. r8 |
 
   bes c aes bes~ bes c aes bes~ | bes c aes bes~ bes c aes bes~ |
-  bes4. des8~ des ees r f~ | f aes~ aes2 r4 |
+  bes4 c8 g~ g aes~ aes aes16 g | f r8. r2. | r1 |
+  bes8 c aes bes~ bes c aes bes~ | bes c aes bes~ bes16 c8 aes16~ aes16 bes~ bes8~ |
+  bes2 r8 c8~ c8. des16~ | des8 ees~ ees2 r4 |
 
   
+
+
 
    
     
