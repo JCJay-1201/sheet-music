@@ -13,7 +13,7 @@
 
   \repeat volta 2 {
   bes c aes bes~ bes c aes bes~ | bes c aes bes~ bes c aes bes~ |
-  bes4 c8 g~ g aes~ aes aes16 g | f r8. r2. | r1 |
+  bes4 c8 g~ g aes~ aes aes16 g | f r8. r2. |
   bes8 c aes bes~ bes c aes bes~ | bes c aes bes~ bes16 c8 aes16~ aes16 bes~ bes8~ |
   bes2 r8 c8~ c8. des16~ | des8 ees~ ees2 r4 |
 
@@ -34,13 +34,13 @@
   }
 
   r4 ees'8 c~ c bes aes ees~ | ees r r ees f c des ees |
-  r4 ees'8 c~ c bes aes bes | r4 c8 g~ g aes~ aes \tuplet 3/2 8 {aes16 g ees} |
-  r4 ees'8 c~ c bes aes ees | r4 ees'8 c~ c bes aes des~ |
+  r4 ees'8 c~ c bes aes bes | r4 c8 g~ g aes~ aes \tuplet 3/2 8 {aes16 g ees~} |
+  ees4 ees'8 c~ c bes aes ees | r4 ees'8 c~ c bes aes des~ |
   des4 r8 c~ c aes bes bes~ | bes4 r r8 c, des ees |
   
   r4 ees'8 c~ c bes aes ees~ | ees r r ees f c des ees |
-  r4 ees'8 c~ c bes aes bes | r4 c8 g~ g aes~ aes \tuplet 3/2 8 {aes16 g ees} |
-  r4 ees'8 c~ c bes aes ees | r4 ees'8 c~ c bes aes des~ |
+  r4 ees'8 c~ c bes aes bes | r4 c8 g~ g aes~ aes \tuplet 3/2 8 {aes16 g ees~} |
+  ees4 ees'8 c~ c bes aes ees | r4 ees'8 c~ c bes aes des~ |
   des2 r4 c8 aes~ |
 
   aes2. bes8 ees,~ | ees2 r4 f | c2. r4
