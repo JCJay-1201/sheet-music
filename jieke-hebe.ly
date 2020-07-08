@@ -33,7 +33,7 @@
     {ees2 r16 c8 des16~ des ees16~ ees8 | }
   }
 
-  r4 ees'8 c~ c bes aes ees~ | ees r r c ees8. f16~ f8 c |
+  r4 ees'8 c~ c bes aes ees~ | ees r r ees f des ees f |
   r4 ees'8 c~ c bes aes des~ | des4~ des8 c~ c aes bes bes~ |
   bes4
 
