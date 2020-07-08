@@ -34,8 +34,7 @@
   }
 
   r4 ees'8 c~ c bes aes ees~ | ees r r ees f des ees f |
-  r4 ees'8 c~ c bes aes des~ | des4~ des8 c~ c aes bes bes~ |
-  bes4
+  r4 ees'8 c~ c bes aes bes | r4 c8 g~ g aes~ aes \tuplet 3/2 8 {aes16 g ees} |
 
 
    
