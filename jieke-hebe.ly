@@ -82,7 +82,7 @@
     {bes2 r8 g aes ees~ | ees2. r4 | 
       aes,16 g aes g bes g aes g aes g aes g bes g aes g | 
       aes16 g aes g c g aes g aes g aes g ees' g, aes g | 
-      aes16 g aes g  bes g aes g ees' g, aes g bes g aes g| 
+      aes16 g aes g  bes g aes g ees'8 aes,  bes  aes | 
       ees8 g aes g f aes bes aes |
       aes'8. g16~ g8 f~ f ees c bes | aes'8. g16~ g8 f~ f ees c bes | 
       r1 | r | \time 2/4 r2 |}
