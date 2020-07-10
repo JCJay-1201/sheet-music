@@ -1,5 +1,5 @@
 \header {
-  title = "皆可Piano"
+  title = "皆可"
   composer = ""
 }
 
