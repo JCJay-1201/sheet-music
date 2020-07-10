@@ -25,6 +25,13 @@
   {des1:m | ees |}
   }  
   
+  aes1~ | aes | f:m | ees |
+  des | aes/c | bes:m | des2/ees ees |
+  aes1 | ees/g | f:m | des:m |
+  des | aes/c | bes:m | ees |
+
+  des/f | ees/g | f:m | aes | c:m | des |
+
 
   }
   
