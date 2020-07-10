@@ -10,7 +10,13 @@
   f1:m~ | f4:m aes2.~ |  aes4 c2.:m | des1 |
   f1:m~ | f4:m aes2.~ |  aes4 c2.:m | des1 |
 
-  
+  bes1:m | ees | f:m | aes/ees |
+  des | des/ees | f:m | des:m |
+
+  aes | aes/c | des | des2:m des:m/ees |
+  aes1 | c:m | des:m | ees |
+  aes | aes/c | des | des2:m ees |
+  f1:m | c:m | des:m | des/ees |
 
 }
   
