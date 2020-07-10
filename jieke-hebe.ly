@@ -82,7 +82,7 @@
     {bes2 r8 g aes ees~ | ees2. r4 | 
       r1 | r | r | r|
       r | r | r | r | \time 2/4 r2 |}
-    {bes'2 r8 g aes ees~ | ees2 r8 aes, bes c | }
+    {\time 4/4 bes'2 r8 g aes ees~ | ees2 r8 aes, bes c | }
   }
 
   r4 ees'8 c~ c bes aes ees~ | ees r r ees f c des ees |
