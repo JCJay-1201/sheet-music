@@ -40,8 +40,12 @@
   
   \relative aes' { \key aes\major \tempo 4 = 95 \time 4/4
 
-  r8 aes~ aes2.| r8 aes~ aes2. | r8 aes~ aes2. | r8 aes~ aes2. |
-  aes8 g aes g bes g aes g | bes8 g aes g bes g aes g | 
+  <<{r8 aes r aes~ aes2}\\{<g' aes>1}>>|
+  <<{r8 aes, r aes~ aes2}\\{<g' aes>1}>>|
+  <<{r8 aes, r aes~ aes2}\\{<g' aes>1}>>|
+  <<{r8 aes, r aes~ aes2}\\{<g' aes>1}>>|
+
+  aes,8 g aes g bes g aes g | bes8 g aes g bes g aes g | 
   ees8 g aes g bes g aes g | ees8 g aes g bes g aes g | c1 |
 
   r4 c8 ees f g aes aes~ | aes g~ g aes~ aes bes~ bes c,~ |
