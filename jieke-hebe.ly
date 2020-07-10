@@ -11,21 +11,19 @@
   f1:m~ | f4:m aes2.~ |  aes4 c2.:m | des1 |
 
   \repeat volta 2 {
-  bes1:m | {ees} \\ {bes:m} | f:m | aes/ees |
+  bes1:m | ees | f:m | aes/ees |
   des | des/ees | f:m | des:m |
 
   aes | aes/c | des | des2:m des:m/ees |
   aes1 | c:m | des:m | ees |
   aes | aes/c | des | des2:m ees |
-  f1:m | c:m | des:m | des/ees |
+  f1:m | c:m |  
   }
 
-  \alternaative {
-  {}
-  {}
-  }
+  
+  
 
-}
+  }
   
   \relative aes' { \key aes\major \tempo 4 = 95 \time 4/4
 
@@ -48,12 +46,12 @@
   r4 c'8 bes~ bes aes~ aes c,~ | c4 r8 c ees8. f16~ f8 c |
   r4 c'8 bes~ bes aes~ aes aes,~ | aes4~ aes16 aes8 f'16~ f aes,8 bes16~ bes c~ c8 |
   r4 c'8 bes~ bes aes r c, | r4 c'8 bes~ bes aes~ aes bes~ |
-  bes2 r8 g aes ees~ |
+  
   }
 
   \alternative {
-    {ees2. r4 | }
-    {ees2 r16 c8 des16~ des ees16~ ees8 | }
+    {bes2 r8 g aes ees~ | ees2. r4 | }
+    {bes'2 r8 g aes ees~ | ees2 r8 aes, bes c | }
   }
 
   r4 ees'8 c~ c bes aes ees~ | ees r r ees f c des ees |
