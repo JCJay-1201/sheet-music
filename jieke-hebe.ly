@@ -21,8 +21,8 @@
   }
 
   \alternative {
-  {r1 | r |}
-  {r1 | r |}
+  {des1:m | des/ees |}
+  {des1:m | ees |}
   }  
   
 
