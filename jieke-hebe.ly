@@ -10,6 +10,7 @@
   f1:m~ | f4:m aes2.~ |  aes4 c2.:m | des1 |
   f1:m~ | f4:m aes2.~ |  aes4 c2.:m | des1 |
 
+  \repeat volta 2 {
   bes1:m | ees | f:m | aes/ees |
   des | des/ees | f:m | des:m |
 
@@ -17,6 +18,12 @@
   aes1 | c:m | des:m | ees |
   aes | aes/c | des | des2:m ees |
   f1:m | c:m | des:m | des/ees |
+  }
+
+  \alternaative {
+  {}
+  {}
+  }
 
 }
   
