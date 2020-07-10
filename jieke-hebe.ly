@@ -4,6 +4,16 @@
 }
 
 \score { <<
+
+\chords {
+
+  f1:m~ | f4:m aes2.~ |  aes4 c2.:m | des1 |
+  f1:m~ | f4:m aes2.~ |  aes4 c2.:m | des1 |
+
+  
+
+}
+  
   \relative aes' { \key aes\major \tempo 4 = 95 \time 4/4
 
   r4 c8 ees f g aes aes~ | aes g~ g aes~ aes bes~ bes c,~ |
