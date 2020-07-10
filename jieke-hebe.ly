@@ -80,8 +80,11 @@
 
   \alternative {
     {bes2 r8 g aes ees~ | ees2. r4 | 
-      r1 | r | r | r|
-      r | r | r | r | \time 2/4 r2 |}
+      aes,16 g aes g bes g aes g aes16 g aes g bes g aes g | 
+      aes16 g aes g bes g aes g aes16 g aes g bes g aes g | 
+      aes16 g aes g bes g aes g aes16 g aes g bes g aes g | 
+      aes16 g aes g bes g aes g aes16 g aes g bes g aes g |
+      r1 | r | r | r | \time 2/4 r2 |}
     {\time 4/4 bes'2 r8 g aes ees~ | ees2 r8 aes, bes c | }
   }
 
