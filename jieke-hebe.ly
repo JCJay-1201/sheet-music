@@ -8,7 +8,7 @@
 \chords {
 
   r1| r | r | r |
-  f:m | aes | c:m | des | des |
+  f:m | aes | c:m | des | des2 |
 
   f1:m~ | f4:m aes2.~ |  aes4 c2.:m | des1 |
   f1:m~ | f4:m aes2.~ |  aes4 c2.:m | des1 |
@@ -46,8 +46,10 @@
   <<{r8 aes, r aes~ aes2}\\{<g' aes ees>1}>>|
 
   aes,8 g aes g bes g aes g | bes8 g aes g bes g aes g | 
-  ees8 g aes g bes g aes g | ees8 g aes g bes g aes g | c1 |
+  ees8 g aes g bes g aes g | ees8 g aes g bes g aes g | 
+  \time 2/4 c2 |
 
+  \time 4/4
   r4 c8 ees f g aes aes~ | aes g~ g aes~ aes bes~ bes c,~ |
   c4 r8 des~ des ees r f,~ | f2. r4 |
   r4 c'8 ees f g aes aes~ | aes g~ g aes~ aes bes~ bes c,~ |
