@@ -20,7 +20,10 @@
   f1:m | c:m |  
   }
 
-  
+  \alternative {
+  {r1 | r |}
+  {r1 | r |}
+  }  
   
 
   }
