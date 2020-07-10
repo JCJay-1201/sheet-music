@@ -7,6 +7,9 @@
 
 \chords {
 
+  r1| r | r | r |
+  r | r | r | r | r |
+
   f1:m~ | f4:m aes2.~ |  aes4 c2.:m | des1 |
   f1:m~ | f4:m aes2.~ |  aes4 c2.:m | des1 |
 
@@ -36,6 +39,9 @@
   }
   
   \relative aes' { \key aes\major \tempo 4 = 95 \time 4/4
+
+  r1| r | r | r |
+  r | r | r | r | r |
 
   r4 c8 ees f g aes aes~ | aes g~ g aes~ aes bes~ bes c,~ |
   c4 r8 des~ des ees r f,~ | f2. r4 |
