@@ -72,9 +72,10 @@
   r4 ees'8 c~ c bes aes ees~ | ees r r ees f c des ees |
   r4 ees'8 c~ c bes aes bes | r4 c8 g~ g aes~ aes \tuplet 3/2 8 {aes16 g ees~} |
   ees4 ees'8 c~ c bes aes ees | r4 ees'8 c~ c bes aes des~ |
-  des2 r4 c8 aes~ |
-
-  aes2. bes8 ees,~ | ees2 r4 f | c2. r4
+  des4 r8 c~ c aes bes bes~ | bes2. r8 c | aes2. r8 bes |
+  f2. r8 f | c2. r4 |
+  
+  r1 | r | r |
 
    
     
