@@ -24,7 +24,10 @@
   }
 
   \alternative {
-  {des1:m | des/ees |}
+  {des1:m | des/ees |
+  f1:m | des | aes | ees |
+  f:m | aes | c:m | des | \time 2/4 des2 |
+  }
   {des1:m | ees |}
   }  
   
@@ -76,7 +79,9 @@
   }
 
   \alternative {
-    {bes2 r8 g aes ees~ | ees2. r4 | }
+    {bes2 r8 g aes ees~ | ees2. r4 | 
+      r1 | r | r | r|
+      r | r | r | r | \time 2/4 r2 |}
     {bes'2 r8 g aes ees~ | ees2 r8 aes, bes c | }
   }
 
