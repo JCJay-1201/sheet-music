@@ -33,8 +33,11 @@
   aes1 | ees/g | f:m | des:m |
   des | aes/c | bes:m | ees |
 
-  des/f | ees/g | f:m | aes | c:m | des |
-
+  
+  des/f | ees/g | f:m | 
+  
+  aes | c:m | des |
+  f:m | aes | c:m | des |
 
   }
   
@@ -88,8 +91,8 @@
   des4 r8 c~ c aes bes bes~ | bes2. r8 c | aes2. r8 bes |
   ees,2. r8 f | c2. r4 |
   
-  r1 | r | r |
-
+  r8 aes r aes~ aes2 | r8 aes r aes~ aes2 | r8 aes r aes~ aes2 |
+  r1~ | r~ | r~ | r |
    
     
   }
