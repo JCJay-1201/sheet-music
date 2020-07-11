@@ -43,7 +43,7 @@ chordsname = { \chordmode {
 righthand = <<
 
   
-  \relative aes'{ \clef treble \key aes\major \time 4/4 
+  \relative aes'{ \clef treble \key aes\major \numericTimeSignature \time 4/4 
 
   <<{<g' aes>1}\\{r8 aes, r aes~ aes2}>>|
   <<{<g' aes bes>1}\\{r8 aes, r aes~ aes2}>>|
@@ -105,7 +105,9 @@ righthand = <<
 
  }>>
 
-lefthand = \relative aes { \clef bass \key aes\major \time 4/4 
+lefthand = \relative aes { \clef bass \key aes\major \numericTimeSignature \time 4/4 
+  r8 aes, r aes~ aes2
+
 
  }
 
