@@ -106,8 +106,8 @@ lefthand = \relative aes { \clef bass \key aes\major \numericTimeSignature \time
   r8 aes, r aes~ aes2 | r8 aes r aes~ aes2 | r8 aes r aes~ aes2 | r8 aes r aes~ aes2 |
 
   <f c' f>1 | <aes ees' aes> | <c, g' c> | <des aes' des> | <des aes' des>2 |
-  
-   
+
+  f8 c' g' aes~ aes2 | aes,8 ees' g aes~ aes2 |
 
 
  }
