@@ -45,12 +45,9 @@ righthand = <<
   
   \relative aes'{ \clef treble \key aes\major \numericTimeSignature \time 4/4 
 
-  <<{<g' aes>1}\\{r8 aes, r aes~ aes2}>>|
-  <<{<g' aes bes>1}\\{r8 aes, r aes~ aes2}>>|
-  <<{<g' aes>1}\\{r8 aes, r aes~ aes2}>>|
-  <<{<g' aes ees>1}\\{r8 aes,~ aes aes~ aes2}>>|
+  {<g' aes>1}| {<g aes bes>1} | {<g aes>1} | {<g aes ees>1} |
 
-  aes8 g aes g bes g aes g | bes8 g aes g bes g aes g | 
+  aes,8 g aes g bes g aes g | bes8 g aes g bes g aes g | 
   ees8 g aes g bes g aes g | ees8 g aes g bes g aes g | 
   \time 2/4 c2 |
 
@@ -106,7 +103,9 @@ righthand = <<
  }>>
 
 lefthand = \relative aes { \clef bass \key aes\major \numericTimeSignature \time 4/4 
-  r8 aes, r aes~ aes2
+  r8 aes, r aes~ aes2 | r8 aes r aes~ aes2 | r8 aes r aes~ aes2 | r8 aes r aes~ aes2 |
+
+
 
 
  }
