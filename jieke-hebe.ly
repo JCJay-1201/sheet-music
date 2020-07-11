@@ -3,7 +3,7 @@
   composer = ""
 }
 
-righthand = \relative aes''{ \clef treble \key aes\major \time 4/4 
+righthand = \relative aes'{ \clef treble \key aes\major \time 4/4 
 
   <<{<g' aes>1}\\{r8 aes, r aes~ aes2}>>|
   <<{<g' aes bes>1}\\{r8 aes, r aes~ aes2}>>|
@@ -70,7 +70,9 @@ lefthand = \relative aes { \clef bass \key aes\major \time 4/4
  }
 
 
-\score { <<
+\score { \new PianoStaff <<
+  \new Staff \righthand
+  \new Staff \lefthand
 
 \chords {
 
