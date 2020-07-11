@@ -4,9 +4,9 @@
 }
 
 chordsname = { \chordmode {
-r1 | r | r | r |  f:m | aes | c:m | des | des2 |
+  r1 | r | r | r |  f:m | aes | c:m | des | des2 |
 
-f1:m~ | f4:m aes2.~ |  aes4 c2.:m | des1 |
+  f1:m~ | f4:m aes2.~ |  aes4 c2.:m | des1 |
   f1:m~ | f4:m aes2.~ |  aes4 c2.:m | des1 |
 
   \repeat volta 2 {
