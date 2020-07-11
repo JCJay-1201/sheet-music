@@ -102,16 +102,18 @@ righthand = <<
 
  }>>
 
-lefthand = \relative aes { \clef bass \key aes\major \numericTimeSignature \time 4/4 
+lefthand = \relative aes { \clef bass \key aes\major \numericTimeSignature \time 4/4 \tempo 4=95
   r8 aes, r aes~ aes2 | r8 aes r aes~ aes2 | r8 aes r aes~ aes2 | r8 aes r aes~ aes2 |
 
-  <f c' f>1 | <aes ees' aes> | <c, g' c> | <des aes' des> | 
+  <f c' f>1 | <aes ees' aes> | <c, g' c> | <des aes' des> | <des aes' des>2 |
+  
+   
 
 
  }
 
 
-\score { <<
+\score {  <<
 
   \new ChordNames { \chordsname }
 
