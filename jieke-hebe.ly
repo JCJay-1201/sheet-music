@@ -3,7 +3,42 @@
   composer = ""
 }
 
-chordsname = { \chordmode {} }
+chordsname = { \chordmode {
+r1 | r | r | r |  f:m | aes | c:m | des | des2 |
+
+f1:m~ | f4:m aes2.~ |  aes4 c2.:m | des1 |
+  f1:m~ | f4:m aes2.~ |  aes4 c2.:m | des1 |
+
+  \repeat volta 2 {
+  bes1:m | ees | f:m | aes/ees |
+  des | des/ees | f:m | des:m |
+
+  aes | aes/c | des | des2:m des:m/ees |
+  aes1 | c:m | des:m | ees |
+  aes | aes/c | des | des2:m ees |
+  f1:m | c:m |  
+  }
+
+  \alternative {
+  {des1:m | des/ees |
+  f1:m | des | aes | ees |
+  f:m | aes | c:m | des | \time 2/4 des2 |
+  }
+  {des1:m | ees |}
+  }  
+  
+  aes1~ | aes | f:m | ees |
+  des | aes/c | bes:m | des2/ees ees |
+  aes1 | ees/g | f:m | des:m |
+  des | aes/c | bes:m | ees |
+
+  
+  des/f | ees/g | f:m | 
+  
+  aes | c:m | des |
+  f:m | aes | c:m | des | des |
+
+} }
 
 righthand = <<
 
