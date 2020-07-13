@@ -118,7 +118,22 @@ lefthand = \relative aes { \clef bass \key aes\major \numericTimeSignature \time
   aes'8 ees' aes <g aes c ees>~ <g aes c ees> g <aes c ees>4 |
   <aes c ees>4. <aes c ees>8~ <aes c ees>4 <c,, c'> |
   des8 aes' des <f aes des>~ <f aes des> f <f aes des>4 |
-  
+  des8 fes aes <fes aes des>~ <fes aes des>4 <ees, ees'>4 |
+  aes8 ees' g <g aes c ees>~ <g aes c ees> g <aes c ees>4 |
+  c,8 ees g bes~ bes4 <g bes c ees> |
+  des8 fes aes des~ des4 <aes ces des fes> | <ees g bes des>2. <ees, ees'>4 |
+
+  aes8 ees' aes <g aes c ees>~ <g aes c ees> g <aes c ees>4 |
+  <aes c ees>4. <aes c ees>8~ <aes c ees>4 <c,, c'> |
+  des8 aes' des <f aes des>~ <f aes des> f <f aes des>4 |
+  des8 fes <aes des> fes ees g <g bes ees> <ees, ees'> |
+  f8 c' g' <f aes c>~ <f aes c> <aes c ees>~ <aes c ees>4 |
+  c,8 es g <g bes c>~ <g bes c> <g c ees>~ <g c ees>4 |
+  des8 fes aes <fes aes des>~ <fes aes des>4 aes |
+  ees,8 aes ees' <f aes ees'>~ <f aes ees'>4 <ees, ees'> |
+
+
+
 
  }
 
