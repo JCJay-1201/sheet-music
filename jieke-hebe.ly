@@ -115,6 +115,9 @@ lefthand = \relative aes { \clef bass \key aes\major \numericTimeSignature \time
   <des des'>4. <f' aes des>8~ <f aes des>4 <f aes des> | <des f aes>4. <des f aes>8~ <des f aes>4 <ees, ees'> |
   <f f'>4. <aes' c ees>8~ <aes c ees>4 <aes c ees> | <des, fes aes>2~ <des fes aes>8 <des, des'>~ <des des'>4 |
 
+  aes'8 ees' aes <g aes c ees>~ <g aes c ees> g <aes c ees>4 |
+  <aes c ees>4. <aes c ees>8~ <aes c ees>4 <c,, c'> |
+  des8 aes' des <f aes des>~ <f aes des> f <f aes des>4 |
   
 
  }
