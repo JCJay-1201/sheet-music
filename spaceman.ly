@@ -89,14 +89,19 @@ chordsname = { \chordmode{
   %verse1
   cis:9 | eis:m/bis | fis2:maj7 gis:7 | cis1 |
   cis:9 | eis:m/bis | fis2:maj7 gis:7 | cis1 |
-  %pre-chorus
+  %pre-chorus1
   fis2:maj7 dis:m7 | eis:m7 ais:m7 | fis1 | gis | fis2:m7 dis:m7 | gis1 |
-  %chorus
+  %chorus1
   ais:m7 | eis:m7 | dis:m7 | cis |
   fis:maj7 | eis2:m7 ais:m7 | fis1:maj7 | fis:m7 | gis:7 |
   %verse2
-  
-
+  cis:9 | eis:m/bis | fis2:maj7 gis:7 | cis1 |
+  cis:9 | eis:m/bis | fis2:maj7 gis:7 | cis1 |
+  %pre-chorus2
+  fis2:maj7 dis:m7 | eis:m7 ais:m7 | fis1 | gis | fis2:m7 dis:m7 | gis1 |
+  %chorus2
+  ais:m7 | eis:m7 | dis:m7 | cis |
+  fis:m7 | eis2:m7 ais:m7 | fis1:maj7 | dis:m7 | gis:7 |
 
   }}
 
