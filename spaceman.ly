@@ -81,7 +81,7 @@ righthand = {\clef treble \key cis\major \numericTimeSignature \time 4/4 \tempo 
 
 }
 
-lefthand = {\clef bass \key cis\major \numericTimeSignature \time 4/4}
+lefthand = {}
 
 chordsname = { \chordmode{
   %intro
@@ -117,7 +117,6 @@ chordsname = { \chordmode{
   \new ChordNames {\chordsname}
   \new PianoStaff {
     \new Staff \righthand
-    \new Staff \lefthand
     }>>
 
   \layout {}
