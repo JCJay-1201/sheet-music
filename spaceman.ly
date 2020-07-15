@@ -62,6 +62,18 @@ righthand = {\clef treble \key cis\major \numericTimeSignature \time 4/4 \tempo 
     eis16 dis dis8~ dis ais16 ais cis8 ais16 cis~ cis dis8 eis16~|
     eis8 dis16 dis~ dis cis8 dis16~ dis2 |
     gis4 cis,16 bis8 dis16 cis2 |
+    %verse3
+    r16 gis gis gis gis cis8 cis16~ cis4 r16 gis8 gis16~ |
+    gis fis8 fis16~ fis eis8 eis16~ eis dis8.~ dis8 dis16 eis~|
+    eis8 fis16 fis fis cis'8 cis16~ cis8. cis16 cis dis8 cis16|
+    \tuplet 3/2 8 {cis16 ais gis~} gis8~ gis eis16 ais~ ais ais8.~ ais4|
+
+    r8 gis16 gis gis cis8 cis16~ cis8. cis16 dis8 cis~|
+    cis eis16 fis \tuplet 3/2 4 {eis8 dis cis~} cis4 r16 gis cis dis|
+    e4 dis e8 dis16 dis~ dis cis8 gis'16~|
+    gis2~ gis8 eis16 fis eis dis dis cis|
+    fis,8. gis16~ gis ais8. gis8 eis'16 fis eis dis dis cis|
+    cis1 |
   
   }
 
