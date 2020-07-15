@@ -35,7 +35,6 @@ righthand = {\clef treble \key cis\major \numericTimeSignature \time 4/4 \tempo 
     dis8 eis eis16 dis8 cis16~ cis4 r16 cis8 dis16|
     eis dis dis8~ dis ais16 ais cis8 ais16 cis~ cis dis8 e16~|
     e8 dis16 dis~ dis cis8 dis16~ dis4 cis16 bis8 cis16~| cis1 |
-
     %verse2
     r16 gis gis gis gis cis8 cis16~ cis4 r16 gis8 gis16~ |
     gis16 fis8. fis8 eis16 eis~ eis dis~ dis8~ dis16 dis dis eis~ |
@@ -46,7 +45,6 @@ righthand = {\clef treble \key cis\major \numericTimeSignature \time 4/4 \tempo 
     gis8 fis16 fis fis8 eis16 eis~ eis dis8.~ dis8 dis16 eis~|
     eis8 fis16 fis fis cis'8 cis16~ cis8 eis16 fis eis dis dis cis|
     cis dis eis8~ eis2.|
-
     %pre-chorus2
     fis,8 fis16 fis~ fis gis8 gis16~ gis ais8. r16 ais ais gis~|
     gis8 eis'16 eis~ eis fis8 eis16~ eis8 fis16 eis~ eis8 dis16 cis|
@@ -54,9 +52,12 @@ righthand = {\clef treble \key cis\major \numericTimeSignature \time 4/4 \tempo 
     gis8 gis16 gis~ gis bis8 dis16~ dis8. cis16 r gis cis dis|
     e4 dis e8 dis16 dis~ dis cis8 gis'16~ |
     gis2 gis8 ais eis dis16 cis |
-
     %chorus2
-    
+    eis4 eis eis8 dis16 dis~ dis cis8 cis16|
+    dis8 eis16 eis~ eis dis8. dis8 cis16 cis~ cis bis8 cis16~|
+    cis8 ais16 cis~ cis8 ais16 cis~ cis8 ais16 cis~ cis gis'8 gis16|
+    fis eis8. r4 gis,16 ais gis ais cis dis cis dis|
+    e8 \tuplet 3/2 8 {dis16 cis dis} e4 e8 dis16 dis~ dis cis8 dis16|
   
   }
 
