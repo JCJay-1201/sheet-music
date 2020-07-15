@@ -83,9 +83,22 @@ righthand = {\clef treble \key cis\major \numericTimeSignature \time 4/4 \tempo 
 
 lefthand = {\clef bass \key cis\major \numericTimeSignature \time 4/4}
 
-chordsname = {
+chordsname = { \chordmode{
+  %intro
+  cis1:9 | cis |
+  %verse1
+  cis:9 | eis:m/bis | fis2:maj7 gis:7 | cis1 |
+  cis:9 | eis:m/bis | fis2:maj7 gis:7 | cis1 |
+  %pre-chorus
+  fis2:maj7 dis:m7 | eis:m7 ais:m7 | fis1 | gis | fis2:m7 dis:m7 | gis1 |
+  %chorus
+  ais:m7 | eis:m7 | dis:m7 | cis |
+  fis:maj7 | eis2:m7 ais:m7 | fis1:maj7 | fis:m7 | gis:7 |
+  %verse2
+  
 
-}
+
+  }}
 
 
 
