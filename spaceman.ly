@@ -83,7 +83,9 @@ righthand = {\clef treble \key cis\major \numericTimeSignature \time 4/4 \tempo 
 
 lefthand = {\clef bass \key cis\major \numericTimeSignature \time 4/4}
 
-chordsname = {}
+chordsname = {
+
+}
 
 
 
