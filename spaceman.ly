@@ -3,7 +3,7 @@
   composer = ""
 }
 
-righthand = { }
+righthand = {\clef treble \numerickey \key cis\major  }
 
 lefthand = {}
 
@@ -12,10 +12,12 @@ chordsname = {}
 
 
 
-\score {
+\score {<<
+  \new ChordNames {\chordsname}
   \new PianoStaff {
-    \new Staff 
-    }
+    \new Staff \righthand
+    \new Staff \lefthand
+    }>>
 
   \layout {}
   \midi {}
