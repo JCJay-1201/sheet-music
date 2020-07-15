@@ -40,7 +40,9 @@ righthand = {\clef treble \key cis\major \numericTimeSignature \time 4/4 \tempo 
     r16 gis gis gis gis cis8 cis16~ cis4 r16 gis8 gis16~ |
     gis16 fis8. fis8 eis16 eis~ eis dis~ dis8~ dis16 dis dis eis~ |
     eis8 fis16 fis fis cis'8 cis16~ cis8. cis16 bis8. dis,16 |
-    eis8. gis16~ gis2. |
+    eis8. gis16~ gis2 r16 ais8 gis16 |
+
+    
   
   }
 
