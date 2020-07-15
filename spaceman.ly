@@ -3,7 +3,7 @@
   composer = ""
 }
 
-righthand = {\clef treble \numerickey \key cis\major  }
+righthand = {\clef treble \key cis\major \NumericTimeSignature \time 4/4 }
 
 lefthand = {}
 
