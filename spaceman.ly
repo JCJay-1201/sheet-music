@@ -3,9 +3,19 @@
   composer = ""
 }
 
-righthand = {\clef treble \key cis\major \NumericTimeSignature \time 4/4 }
+righthand = {\clef treble \key cis\major \numericTimeSignature \time 4/4 
+  <<
+  \relative cis'{
+    
+  
+  
+  }
 
-lefthand = {}
+  >>
+
+}
+
+lefthand = {\clef bass \key cis\major \numericTimeSignature \time 4/4}
 
 chordsname = {}
 
