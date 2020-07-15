@@ -13,9 +13,9 @@ chordsname = {}
 
 
 \score {
-  \relative c' {
-    c4
-  }
+  \new PianoStaff {
+    \new Staff 
+    }
 
   \layout {}
   \midi {}
