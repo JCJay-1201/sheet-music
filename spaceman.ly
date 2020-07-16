@@ -85,25 +85,25 @@ lefthand = {}
 
 chordsname = { \chordmode{
   %intro
-  cis1:maj9 | cis |
+  cis1:2 | cis |
   %verse1
-  cis:maj9 | eis:m/bis | fis2:maj7/ais gis:7 | cis1 |
-  cis:maj9 | eis:m/bis | dis2:m7 gis:7 | cis1 |
+  cis:2 | eis:m/bis | fis2:maj7/ais gis:7 | cis1 |
+  cis:2 | eis:m/bis | dis2:m9 gis:1.4.5 | cis1 |
   %pre-chorus1
-  fis2:maj7 dis:m7 | eis:m7 ais:m7 | fis1 | gis2 ais:m7 | fis1:m7 | gis |
+  fis2:maj7 dis:m7 | eis:m7 ais:m7 | fis1:maj9 | gis2 ais:m7 | fis1:m7 | gis:1.4.7 |
   %chorus1
-  ais:m7 | eis:m7 | dis:m7 | cis |
-  fis:maj7 | eis2:m7 ais:m7 | fis1:maj7 | fis2:m7 gis:7 | cis1 |
+  fis:maj7 | eis:m7 | dis:m9 | cis:maj9 |
+  fis:maj7 | gis2:m7 ais:m7 | dis1:m9 | fis2:m7 gis:1.4.7 | cis1:2 |
   %verse2
   cis:maj9 | eis:m/bis | fis2:maj7 gis:7 | cis1 |
   cis:maj9 | eis:m/bis | fis2:maj7 gis:7 | cis1 |
   %pre-chorus2
-  fis2:maj7 dis:m7 | eis:m7 ais:m7 | fis1 | gis | fis2:m7 dis:m7 | gis1 |
+  fis2:maj7 dis:m7 | eis:m7 ais:m7 | fis1 | gis | fis:m7 | gis1 |
   %chorus2
-  ais:m7 | eis:m7 | dis:m7 | cis |
-  fis:m7 | eis2:m7 ais:m7 | fis1:maj7 | dis:m7 | gis:7 |
+  fis:maj7 | eis:m7 | dis:m7 | cis:2 |
+  fis:m7 | eis2:m7 ais:m7 | fis1:maj9 | dis:m7 | gis2:7 cis:2 |
   %verse3
-  cis:maj9 | eis:m/bis | fis2:maj7 gis:7 | cis1 |
+  cis1:maj9 | eis:m/bis | fis2:maj7 gis:7 | cis1 |
   cis:maj9 | eis2:m/bis ais:m7 |
   fis1:m7 | gis:7 |
   fis2:maj7 gis:7 | cis1:maj9 |
