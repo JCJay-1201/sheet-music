@@ -103,10 +103,10 @@ chordsname = { \chordmode{
   fis:maj7 | eis:m7 | dis:m7 | cis:2 |
   fis:m7 | eis2:m7 ais:m7 | fis1:maj9 | dis:m7 | gis2:7 cis:2 |
   %verse3
-  cis1:maj9 | eis:m/bis | fis2:maj7 gis:7 | cis1 |
+  cis1:maj9 | cis:2/bis | fis2:maj9 gis:7 | cis1 |
   cis:maj9 | eis2:m/bis ais:m7 |
   fis1:m7 | gis:7 |
-  fis2:maj7 gis:7 | cis1:maj9 |
+  fis2:maj9 gis:1.4.7 | cis1:maj9 |
 
   }}
 
