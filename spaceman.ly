@@ -90,7 +90,7 @@ chordsname = { \chordmode{
   cis:maj9 | eis:m/bis | fis2:maj7/ais gis:7 | cis1 |
   cis:maj9 | eis:m/bis | dis2:m7 gis:7 | cis1 |
   %pre-chorus1
-  fis2:maj7 dis:m7 | eis:m7 ais:m7 | fis1 | gis | fis2:m7 dis:m7 | gis1 |
+  fis2:maj7 dis:m7 | eis:m7 ais:m7 | fis1 | gis2 ais:m7 | fis:m7 dis:m7 | gis1 |
   %chorus1
   ais:m7 | eis:m7 | dis:m7 | cis |
   fis:maj7 | eis2:m7 ais:m7 | fis1:maj7 | fis2:m7 gis:7 | cis1 |
