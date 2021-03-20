@@ -53,8 +53,8 @@ lower = \relative des' {\key des \major \time 12/8 \clef treble
 
     \time 4/4  \clef bass
 
-    <des,, ges>1 | <ges aes> |
-    bes4 f aes2 | bes4 bes aes <f aes> |
+    <des,,, ges>1 | <aes' ges'> |
+    bes4 f' aes2 | bes,4 bes' aes <f aes,> |
 
   }
 
