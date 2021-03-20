@@ -19,7 +19,11 @@ upper = \relative des' {\key des \major \time 12/8 \clef treble
     f' ees f <bes bes,> f ees f ees f <bes bes,> f ees |
     f ees f <aes aes,> f ees f ees f <aes aes,> f ees |
     ees des ees c' ees, des aes' ees des c' ees, des |
-    ees des ees c' ees, des aes' ees des c'4. |      
+    ees des ees c' ees, des aes' ees des c'4. |
+
+    \time 4/4
+
+    
 
   }
 
@@ -40,6 +44,9 @@ lower = \relative des' {\key des \major \time 12/8 \clef treble
     <ges aes c f> ~<ges aes c f> |
     <f aes c ees> ~<f aes c ees> |
     <bes c des f c'> ~<bes c des f c'> |
+
+    \time 4/4  \clef bass
+
 
   }
 
