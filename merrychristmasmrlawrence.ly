@@ -46,7 +46,7 @@ upper = \relative des' {\key des \major \time 12/8 \clef treble \tempo 4.=64
     <<{bes'8 aes bes aes~ aes bes4 bes8~}\\{<ces, ees ges>4. <ces ees ges>8~ <ces ees ges>8 <ces ees ges>4 <ces ees ges>8~}>> |
     <<{bes'8 aes bes aes~ aes bes aes ges}\\{<ces, ees ges>4. <ces ees ges>8~ <ces ees ges>8 <ces ees ges>4.}>>
 
-    <<{f8 ees f bes'~ bes f4 f8~}\\{<bes d>2~ <bes d>4. <d a>8~}>> | <<{f8 ees f a~ a2}\\{<d a>1}>> |
+    <<{f8 ees f bes~ bes f4 f8~}\\{<bes d>2~ <bes d>4. <d a>8~}>> | <<{f8 ees f a~ a2}\\{<d a>1}>> |
 
   }
 
