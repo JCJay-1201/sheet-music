@@ -35,7 +35,9 @@ upper = \relative des' {\key des \major \time 12/8 \clef treble
     <<{ees''8 f ees bes <ees~ bes~ f~>2}\\{bes1}>>| <ees bes f>4 <ees bes>8 <f c>  <ees bes> <f c> <aes ees> <f c> |
     <ees bes> <f c> <ees bes> <bes f> <des aes>2 | r4 <des f des'> <c f c'>8 aes' <c, f>4 |
 
-    <<{\voiceOne ees8 f ees bes } \new Voice {\voiceTwo bes2}>>
+    <<{\voiceOne ees8 f ees bes } \new Voice {\voiceTwo bes2}>> <ees bes ees,>2~ |
+    <ees bes ees,>4 <ees bes>8 <f c> <ees bes> <f c> <aes ees> <f c>|
+    <ees bes> <f c> <ees bes> <des aes> <bes f>2~ | <bes f> c,4 des |
 
   }
 
@@ -65,6 +67,8 @@ lower = \relative des' {\key des \major \time 12/8 \clef treble
     bes4 f' <des aes'>2 | bes, <aes' c ees> |
     ges4 des' bes2 | <aes ees'>4 ges' c2 |
     bes,4 f' des'2 | bes,4 <bes' f> aes <f aes,> |
+    ges,4 des' bes'2 | <aes, ees'>4 ges' c2 |
+    bes,4 f <aes des>2~ | <aes des>4 bes c des |
 
   }
 
