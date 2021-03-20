@@ -37,6 +37,9 @@ lower = \relative des' {\key des \major \time 12/8 \clef treble
     <f aes c ees>~ <f aes c ees> |
     <bes c des f c'> <aes c des f> |
     <ges aes des f> ~<ges aes des f> |
+    <ges aes c f> ~<ges aes c f> |
+    <f aes c ees> ~<f aes c ees> |
+    <bes c des f c'> ~<bes c des f c'> |
 
   }
 
