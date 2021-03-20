@@ -7,7 +7,7 @@ upper = \relative des' {\key des \major \time 12/8 \clef treble \tempo 4.=64
 
     \ottava #1
 
-    f'8 ees f bes f ees f ees f bes f ees |
+    f''8 ees f bes f ees f ees f bes f ees |
     f ees f aes f ees f ees f aes f ees |
     ees des ees aes ees des ees des ees aes ees des |
     ees des ees aes ees des c bes c f c bes |
@@ -26,7 +26,7 @@ upper = \relative des' {\key des \major \time 12/8 \clef treble \tempo 4.=64
 
     \time 4/4 \ottava #0 \tempo 4 =96
 
-    <<{ees,,8 f ees bes ees2}\\{bes1}>>| <<{ees4 ees8 f ees f aes f}\\{bes,1}>> |
+    <<{ees,,,8 f ees bes ees2}\\{bes1}>>| <<{ees4 ees8 f ees f aes f}\\{bes,1}>> |
     ees8 f ees bes des2 | r4 <des f des'>4 c'8 aes <f c>4 |
 
     <<{ees8 f ees bes ees2}\\{bes1}>>| <<{ees4 ees8 f ees f aes f}\\{bes,1}>> |
@@ -38,6 +38,10 @@ upper = \relative des' {\key des \major \time 12/8 \clef treble \tempo 4.=64
     <<{\voiceOne ees8 f ees bes } \new Voice {\voiceTwo bes2}>> <ees bes ees,>2~ |
     <ees bes ees,>4 <ees bes>8 <f c> <ees bes> <f c> <aes ees> <f c>|
     <ees bes> <f c> <ees bes> <des aes> <bes f>2~ | <bes f> c,4 des |
+
+    <<{\voiceOne bes'8 aes bes aes~ aes} \new Voice {\voiceTwo <ges ees ces>4. <ces, ees ges>8 ~<ces ees ges>8}>> <ces ees ges bes>4 <ces ees ges bes>8~ |
+    
+    
 
   }
 
