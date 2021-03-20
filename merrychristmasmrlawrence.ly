@@ -20,8 +20,16 @@ upper = \relative des' {\key des \major \time 12/8 \clef treble
 
   }
 
-lower = \relative des' {\key des \major \time 12/8 \clef bass
-    
+lower = \relative des' {\key des \major \time 12/8 \clef treble
+    <ges' aes des>2. <ges aes des>2. |
+    <ges aes bes c> <ges aes bes c> |
+    <f aes bes c> <f aes bes c> |
+    <bes, f' aes c> <aes c des f> |
+    <ges' aes des>2. <ges aes des>2. |
+    <ges aes bes c> <ges aes bes c> |
+    <f aes bes c> <f aes bes c> |
+    <bes, f' aes c> <bes f' aes c> |
+
   }
 
 \score {
