@@ -40,7 +40,7 @@ upper = \relative des' {\key des \major \time 12/8 \clef treble \tempo 4.=64
     <ees bes> <f c> <ees bes> <des aes> <bes f>2~ | <bes f> c,4 des |
 
     <<{\voiceOne bes'8 aes bes aes~ aes} \new Voice {\voiceTwo <ges ees ces>4. <ces, ees ges>8 ~<ces ees ges>8}>> <ces ees ges bes>4 <ces ees ges bes>8~ |
-    
+    <<{\voiceOne bes'8 aes bes aes~ aes bes aes ges} \new Voice {\voiceTwo <ces, ees ges>4. <ces ees ges>8~ <ces ees ges> <ces ees>4.}>>
     
 
   }
