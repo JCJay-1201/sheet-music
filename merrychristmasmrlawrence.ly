@@ -3,7 +3,7 @@
   composer = "坂本龍一"
 }
 
-upper = \relative des' {\key des \major \time 12/8 \clef treble
+upper = \relative des' {\key des \major \time 12/8 \clef treble \tempo 4.=64
 
     \ottava #1
 
@@ -24,7 +24,7 @@ upper = \relative des' {\key des \major \time 12/8 \clef treble
     ees des ees c' ees, des aes' ees des c' ees, des |
     ees des ees c' ees, des aes' ees des c'4. |
 
-    \time 4/4 \ottava #0
+    \time 4/4 \ottava #0 \tempo 4 =96
 
     <<{ees,,8 f ees bes ees2}\\{bes1}>>| <<{ees4 ees8 f ees f aes f}\\{bes,1}>> |
     ees8 f ees bes des2 | r4 <des f des'>4 c'8 aes <f c>4 |
