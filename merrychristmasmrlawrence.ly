@@ -78,7 +78,10 @@ lower = \relative des' {\key des \major \time 12/8 \clef treble
     \new Staff = "upper" \upper
     \new Staff = "lower" \lower
     >>
+
+    \layout {}
+  \midi {}
+
   }
 
-  \layout {}
-  \midi {}
+  
