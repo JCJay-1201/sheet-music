@@ -21,14 +21,19 @@ upper = \relative des' {\key des \major \time 12/8 \clef treble
   }
 
 lower = \relative des' {\key des \major \time 12/8 \clef treble
-    <ges' aes des>2. <ges aes des>2. |
-    <ges aes bes c> <ges aes bes c> |
-    <f aes bes c> <f aes bes c> |
+    <ges' aes des>2. ~<ges aes des>2. |
+    <ges aes bes c> ~<ges aes bes c> |
+    <f aes bes c> ~<f aes bes c> |
     <bes, f' aes c> <aes c des f> |
-    <ges' aes des>2. <ges aes des>2. |
-    <ges aes bes c> <ges aes bes c> |
-    <f aes bes c> <f aes bes c> |
-    <bes, f' aes c> <bes f' aes c> |
+    <ges' aes des>2. ~<ges aes des>2. |
+    <ges aes bes c> ~<ges aes bes c> |
+    <f aes bes c> ~<f aes bes c> |
+    <bes, f' aes c> ~<bes f' aes c> |
+    <ges aes des f> ~<ges aes des f> |
+    <ges aes c f> ~<ges aes c f> |
+    <f aes c ees>~ <f aes c ees> |
+    <bes c des f c'> <aes c des f> |
+    <ges aes des f> ~<ges aes des f> |
 
   }
 
