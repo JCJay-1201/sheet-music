@@ -26,8 +26,8 @@ upper = \relative des' {\key des \major \time 12/8 \clef treble
 
     \time 4/4 \ottava #0
 
-    ees,,8 f ees bes ees2~ | ees4 ees8 f ees f aes f |
-    ees f ees bes des2 | r4 <des f des'>4 c'8 aes <f c>4 |
+    <<{ees,,8 f ees bes ees2}\\{bes1}>>| <<{ees4 ees8 f ees f aes f}\\{bes,1}>> |
+    ees8 f ees bes des2 | r4 <des f des'>4 c'8 aes <f c>4 |
 
 
 
