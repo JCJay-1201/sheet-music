@@ -49,7 +49,10 @@ upper = \relative des' {\key des \major \time 12/8 \clef treble \tempo 4.=64
     <<{f8 ees f bes~ bes f4 f8~}\\{<bes, d>2~ <bes d>4. <d a>8~}>> | <<{f8 ees f a~ a2}\\{<d, a>1}>> |
 
     \ottava #1
-	  ees''8 f ees bes ees2 |
+	  <<{ees''8 f ees bes ees2~}\\{bes2 <bes f>~}>> |
+	  <ees bes f>4 <ees bes>8 <f c> <ees bes> <f c> <aes ees> <f c> |
+	  <ees bes> <f c> <ees bes> <des aes> <bes f>2 |
+	  ees8 c des f, ees c des c'|
 
   }
 
