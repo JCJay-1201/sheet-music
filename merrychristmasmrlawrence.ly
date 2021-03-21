@@ -4,40 +4,41 @@
 }
 
 upper = \relative des' {\key des \major \time 12/8 \clef treble \tempo 4.=64
-
+	\set Score.markFormatter = #format-mark-box-alphabet
     \ottava #1
-
-    f''8 ees f bes f ees f ees f bes f ees |
-    f ees f aes f ees f ees f aes f ees |
-    ees des ees aes ees des ees des ees aes ees des |
-    ees des ees aes ees des c bes c f c bes |
-    f' ees f bes f ees f ees f bes f ees |
-    f ees f aes f ees f ees f aes f ees |
-    ees des ees c' ees, des aes' ees des c' ees, des |
-    ees des ees c' ees, des aes' ees des c' ees, des |
-    f ees f <bes bes,> f ees f ees f <bes bes,> f ees |
-    f ees f <aes aes,> f ees f ees f <aes aes,> f ees |
-    ees des ees <aes aes,> ees des ees des ees <aes aes,> ees des |
-    ees des ees <aes aes,> ees des c bes c <f f,> c bes |
-    f' ees f <bes bes,> f ees f ees f <bes bes,> f ees |
-    f ees f <aes aes,> f ees f ees f <aes aes,> f ees |
-    ees des ees c' ees, des aes' ees des c' ees, des |
-    ees des ees c' ees, des aes' ees des c'4. |
+	\mark \default %A
+    f''8-> ees f bes-> f ees f-> ees f bes-> f ees |
+    f-> ees f aes-> f ees f-> ees f aes-> f ees |
+    ees-> des ees aes-> ees des ees-> des ees aes-> ees des |
+    ees-> des ees aes-> ees des c-> bes c f-> c bes |
+    f'-> ees f bes-> f ees f-> ees f bes-> f ees |
+    f-> ees f aes-> f ees f-> ees f aes-> f ees |
+    ees-> des ees c'-> ees, des aes'-> ees des c'-> ees, des |
+    ees-> des ees c'-> ees, des aes'-> ees des c'-> ees, des |
+    f-> ees f <bes bes,>-> f ees f-> ees f <bes bes,>-> f ees |
+    f-> ees f <aes aes,>-> f ees f-> ees f <aes aes,>-> f ees |
+    ees-> des ees <aes aes,>-> ees des ees-> des ees <aes aes,>-> ees des |
+    ees-> des ees <aes aes,>-> ees des c-> bes c <f f,>-> c bes |
+    f'-> ees f <bes bes,>-> f ees f-> ees f <bes bes,>-> f ees |
+    f-> ees f <aes aes,>-> f ees f-> ees f <aes aes,>-> f ees |
+    ees-> des ees c'-> ees, des aes'-> ees des c'-> ees, des |
+    ees-> des ees c'-> ees, des aes'-> ees des c'4.-> \bar "||"
 
     \time 4/4 \ottava #0 \tempo 4 =96
-
+	\mark \default %B
     <<{ees,,,8 f ees bes ees2}\\{bes1}>>| <<{ees4 ees8 f ees f aes f}\\{bes,1}>> |
     ees8 f ees bes des2 | r4 <des f des'>4 c'8 aes <f c>4 |
-
+	
     <<{ees8 f ees bes ees2}\\{bes1}>>| <<{ees4 ees8 f ees f aes f}\\{bes,1}>> |
-    ees8 f ees des bes2~ | bes f |
-
+    ees8 f ees des bes2~ | bes f \bar "||"
+	
+	\mark \default %C
     <<{ees''8 f ees bes <ees~ bes~ f~>2}\\{bes1}>>| <ees bes f>4 <ees bes>8 <f c>  <ees bes> <f c> <aes ees> <f c> |
     <ees bes> <f c> <ees bes> <bes f> <des aes>2 | r4 <des f des'> <c f c'>8 aes' <c, f>4 |
  
     <<{ees8 f ees bes ees2~}\\{bes2 <bes f>~}>>|
     <ees bes ees,>4 <ees bes>8 <f c> <ees bes> <f c> <aes ees> <f c>|
-    <ees bes> <f c> <ees bes> <des aes> <bes f>2~ | <bes f> c,4 des |
+    <ees bes> <f c> <ees bes> <des aes> <bes f>2~ | <bes f> c,4 des \bar "||"
 
     <<{bes'8 aes bes aes~ aes bes4 bes8}\\{<ces, ees ges>4. <ces ees ges>8~ <ces ees ges>8 <ces ees ges>4 <ces ees ges>8~}>> |
     <<{bes'8 aes bes aes~ aes bes aes ges}\\{<ces, ees ges>4. <ces ees ges>8~ <ces ees ges>8 <ces ees ges>4.}>>
@@ -46,9 +47,10 @@ upper = \relative des' {\key des \major \time 12/8 \clef treble \tempo 4.=64
     <<{bes'8 aes bes aes~ aes bes4 bes8~}\\{<ces, ees ges>4. <ces ees ges>8~ <ces ees ges>8 <ces ees ges>4 <ces ees ges>8~}>> |
     <<{bes'8 aes bes aes~ aes bes aes ges}\\{<ces, ees ges>4. <ces ees ges>8~ <ces ees ges>8 <ces ees ges>4.}>>
 
-    <<{f8 ees f bes~ bes f4 f8~}\\{<bes, d>2~ <bes d>4. <d a>8~}>> | <<{f8 ees f a~ a2}\\{<d, a>1}>> |
+    <<{f8 ees f bes~ bes f4 f8~}\\{<bes, d>2~ <bes d>4. <d a>8~}>> | <<{f8 ees f a~ a2}\\{<d, a>1}>> \bar"||"
 	
 	\ottava #1
+	\mark \default %D
 	<<{ees''8 f ees bes ees2~}\\{bes2 <bes f>~}>> |
 	<ees bes f>4 <ees bes>8 <f c> <ees bes> <f c> <aes ees> <f c> |
 	<ees bes> <f c> <ees bes> <bes f> <aes des>2 |
@@ -56,9 +58,10 @@ upper = \relative des' {\key des \major \time 12/8 \clef treble \tempo 4.=64
 	<<{ees8 f ees bes ees2~}\\{bes2 <bes f>~}>> |
 	<ees bes f>4 <ees bes>8 <f c> <ees bes> <f c> <aes ees> <f c> |
 	<ees bes> <f c> <ees bes> <des aes> <bes f>2 |
-	ees8 c des f, ees c des c'|
+	ees8 c des f, ees c des c' \bar "||"
 	
 	\ottava #0
+	\mark \default %E
 	<<{ees,8 f ees des ees2~}\\{bes2 <bes f>~}>> |
 	<ees bes f>4 <ees bes>8 <f c> <ees bes> <f c> <aes ees> <f c> |
 	<ees bes> <f c> <ees bes> <bes f> <aes des>2 |
@@ -66,8 +69,9 @@ upper = \relative des' {\key des \major \time 12/8 \clef treble \tempo 4.=64
 	<<{ees8 f ees bes ees2~}\\{bes1~}>> |
 	<ees bes>4 <ees bes>8 <f c> <ees bes> <f c> <aes ees> <f c> |
 	<ees bes>8 <f c> <ees bes> <des aes> <<{\voiceOne bes4. des8} \new Voice {\voiceTwo g,2}>>|
-	<<{bes4. aes8 aes4 f8 ees}\\{<ges c,>2 r4 <ges, c>}>> |
+	<<{bes4. aes8 aes4 f8 ees}\\{<ges c,>2 r4 <ges, c>}>> \bar "||"
 	
+	\mark \default %F
 	<aes bes des f>8 <aes bes des f> <aes bes des f> <aes bes des f> <aes bes des f> <aes bes des f> <aes bes des f> <aes bes des f> |
 	<aes bes c f> <aes bes c f> <aes bes c f> <aes bes c f> <aes bes c f> <aes bes c f> <aes bes c f> <aes bes c f> |
 	<aes c des ees> <aes c des ees> <aes c des ees> <aes c des ees> <aes c des ees> <aes c des ees> <aes c des ees> <f aes c des>16 <f aes c des> |
@@ -75,8 +79,9 @@ upper = \relative des' {\key des \major \time 12/8 \clef treble \tempo 4.=64
 	<aes bes des f>8 <aes bes des f> <aes bes des f> <aes bes des f> <aes bes des f> <aes bes des f> <aes bes des f> <aes bes des f> |
 	<aes bes c f> <aes bes c f> <aes bes c f> <aes bes c f> <aes bes c f>4 <bes c ees aes> |
 	<c des ees aes>8 <c des ees aes> <c des ees aes> <c des ees aes> <c des ees aes> <c des ees aes> <des ees aes c>4 |
-	<des ees aes c>8 <des ees aes c> <des ees aes c> <des ees aes c> <aes' c des f>4 <f aes c ees> |
+	<des ees aes c>8 <des ees aes c> <des ees aes c> <des ees aes c> <aes' c des f>4 <f aes c ees> \bar "||"
 	
+	\mark \default %G
 	<ees' bes>8 <f c> <ees bes> <bes f> <ees bes>2~ |
 	<ees bes>4 <ees bes>8 <f c> <ees bes> <f c> <aes ees> <f c> |
 	<ees bes> <f c> <ees bes> <bes f> <des aes>2 |
@@ -84,9 +89,10 @@ upper = \relative des' {\key des \major \time 12/8 \clef treble \tempo 4.=64
 	<ees bes>8 <f c> <ees bes> <bes f> <ees bes>2~ |
 	<ees bes>4 <ees bes>8 <f c> <ees bes> <f c> <aes ees> <f c> |
 	<ees bes> <f c> <ees bes> <des aes> <bes f>2 |
-	r4 <des bes' des> <des bes' des> <ees c' ees> |
+	r4 <des bes' des> <des bes' des> <ees c' ees> \bar "||"
 	
 	\ottava #1
+	\mark \default %H
 	<ees' bes>8 <f c> <ees bes> <bes f> <ees bes>2~ |
 	<ees bes>4 <ees bes>8 <f c> <ees bes> <f c> <aes ees> <f c> |
 	<ees bes> <f c> <ees bes> <bes f> <des aes>2 |
@@ -94,9 +100,10 @@ upper = \relative des' {\key des \major \time 12/8 \clef treble \tempo 4.=64
 	<ees bes>8 <f c> <ees bes> <bes f> <ees bes>2~ |
 	<ees bes>4 <ees bes>8 <f c> <ees bes> <f c> <aes ees> <f c> |
 	<ees bes> <f c> <ees bes> <des aes> <bes f>2 |
-	\grace {c16 cis d} ees8 c des f, ees c des c' |
+	\grace {c16 cis d} ees8 c des f, ees c des c' \bar "||"
 	
 	\ottava #0
+	\mark \default %I
 	<ees, bes>8 <f c> <ees bes> <bes f> <ees bes>2~ |
 	<ees bes>4 <ees bes>8 <f c> <ees bes> <f c> <aes ees> <f c> |
 	<ees bes> <f c> <ees bes> <bes f> <des aes>2 |
@@ -104,8 +111,9 @@ upper = \relative des' {\key des \major \time 12/8 \clef treble \tempo 4.=64
 	<<{\voiceOne bes,2} \new Voice {\voiceTwo ees8 f ees bes}>> <f ees' bes>2~ |
 	<f ees' bes>4 <ees' bes>8 <f c> <ees bes> <f c> <aes ees> <f c> |
 	<ees bes> <f c> <ees bes> <des aes> <<{\voiceOne bes4. des8} \new Voice {\voiceTwo g,2}>> |
-	<<{\voiceOne bes4. aes8 aes4 f8 ees} \new Voice {\voiceTwo <ges c,>2 r4 <c, ges>}>> |
+	<<{\voiceOne bes4. aes8 aes4 f8 ees} \new Voice {\voiceTwo <ges c,>2 r4 <c, ges>}>> \bar "||"
 
+	\mark \default %J
 	<f, bes f'>2 <f bes ees>|
 	<f bes> <<{\voiceOne <f bes>2} \new Voice{\voiceTwo \tuplet 3/2{c'4 f ees}}>> |
 	<f, bes f'>2 <f bes ees>|
@@ -113,9 +121,9 @@ upper = \relative des' {\key des \major \time 12/8 \clef treble \tempo 4.=64
 	<f, bes f'>2 <f bes ees>|
 	<f bes> <<{\voiceOne <f bes>2} \new Voice{\voiceTwo \tuplet 3/2{c'4 f ees}}>> |
 	<f, bes ees f>2 <f bes ees>|
-	<f des' ees>2 <f c' ees>|
+	<f des' ees>2 <f c' ees>\fermata |
 	
-	<<{bes8 c~ c2.}\\{f,1}>>
+	<<{bes8 c~ c2.\fermata }\\{f,1}>> \bar "|."
 	
   }
 
@@ -210,9 +218,9 @@ lower = \relative des' {\key des \major \time 12/8 \clef treble
 	\repeat tremolo 8{ges,32 ges'} \repeat tremolo 8{ges,32 ges'} |
 	\repeat tremolo 8{ges,32 ges'} \repeat tremolo 8{ges,32 ges'} |
 	\repeat tremolo 8{ges,32 ges'} \repeat tremolo 8{ges,32 ges'} |
-	\repeat tremolo 8{ges,32 ges'} \repeat tremolo 8{ges,32 ges'} |
+	\repeat tremolo 8{ges,32 ges'} \repeat tremolo 8{ges,32 ges'\fermata}  |
 
-	<ges, ges'>1 |
+	<ges, ges'>1\fermata |
 	
   }
 
@@ -225,6 +233,12 @@ chordsname = {\chordmode{
 	ges1.:7+ | aes:7/ges | f:m7 | bes:m7 |
 	
 	ges1:7+ | aes:7/ges | bes:m7 | f:m7/aes |
+	ges1:7+ | aes:7/ges | bes:m7 | f:m7/aes |
+	ges1:7+ | aes:7/ges | bes:m7 | f:m7/aes |
+	ges1:7+ | aes:7/ges | bes:m7~ | bes:m7 |
+	
+	aes:m7~ | aes:m7 | ees:m7~ | ees:m7 |
+	aes:m7~ | aes:m7 | c2.:m7 f4:7~ | f:7 |	
 
 	}}
 
