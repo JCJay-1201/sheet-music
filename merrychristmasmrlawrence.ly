@@ -78,6 +78,15 @@ lower = \relative des' {\key des \major \time 12/8 \clef treble
     bes,4 f' des'2 | bes,4 <bes' f> aes <f aes,> |
     ges,4 des' bes'2 | <aes, ees'>4 ges' c2 |
     bes,4 f <aes des>2~ | <aes des>4 bes c des |
+	
+	bes'8 aes bes aes~ aes bes4 <aes, ees' bes'>8~ |
+	<aes ees' bes'> aes' bes aes~ aes bes aes ges |
+	ees,4 bes'8 ees~ ees f4 <ees, bes'>8~ |
+	<ees bes'>4. ees'8~ ees4 f8 ges |
+	<aes, ees'>4 aes'4~ aes8 bes4 bes8~ |
+	bes aes bes aes~ aes bes aes ges |
+	<c,, g' ees'>2~ <c g' ees'>4. <f ees'>8~ | <f ees'>4. f,8~ f2 |
+	
 
 
 
