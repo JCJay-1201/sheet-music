@@ -223,6 +223,8 @@ chordsname = {\chordmode{
 	ges1.:7+ | aes:7/ges | f:m7 |
 	bes2.:m7  des:7+/aes |
 	ges1.:7+ | aes:7/ges | f:m7 | bes:m7 |
+	
+	ges1:7+ | aes:7/ges | bes:m7 | f:m7/aes |
 
 	}}
 
