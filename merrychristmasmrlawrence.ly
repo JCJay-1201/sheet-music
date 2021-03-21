@@ -103,6 +103,9 @@ upper = \relative des' {\key des \major \time 12/8 \clef treble \tempo 4.=64
 	r4 <des f des'> <<{\voiceOne c'8 aes} \new Voice {\voiceTwo <f c>4}>> <f c>4 |
 	<<{\voiceOne bes,2} \new Voice {\voiceTwo ees8 f ees bes}>> <f ees' bes>2~ |
 	<f ees' bes>4 <ees' bes>8 <f c> <ees bes> <f c> <aes ees> <f c> |
+	<ees bes> <f c> <ees bes> <des aes> <<{\voiceOne bes4. des8} \new Voice {\voiceTwo g,2}>> |
+	<<{\voiceOne bes4. aes8 aes4 f8 ees} \new Voice {\voiceTwo <ges c,>2 r4 <c, ges>}>> |
+
 
 
 
@@ -184,8 +187,20 @@ lower = \relative des' {\key des \major \time 12/8 \clef treble
 	<bes, f'> <f' aes> <f aes des> <f aes des> <f aes des> <f aes des> <f aes des> <f aes des> |
 	bes, bes <bes f' aes> <bes f' aes> <aes des f aes> <aes des f aes> <aes des f aes> <aes des f aes> 
 
+	<ges des'> des' <des bes'> <des bes'> <des bes'> <des bes'> <des bes'> <des bes'> |
+	<aes ees'> ges' <ges c> <ges c> <ges c> <ges c> <ges c> <ges c> |
+	<bes, f'> <f' aes> <f aes des> <f aes des> <f aes des> <f aes des> <f aes des> <f aes des> |
+	bes, <bes f' aes> <bes f' aes> <bes f' aes> <aes des f aes> <aes des f aes> <aes des f aes> <aes des f aes> 
+	<<{g8 ees' bes' ees, bes' ees, g, ees'}\\{g,2. g4}>> |
+	<<{ges8 ees' aes ees c' ees, ges, ees'}\\{ges,2. ges4}>> |
+	<<{f8 des' aes' des, ees, bes' g'4}\\{f,2 ees}>> |
+	<<{aes8 ees' aes4 aes,,8 aes'4.}\\{aes2 aes,}>> |
 
-	
+
+
+
+
+
 	
   }
 
