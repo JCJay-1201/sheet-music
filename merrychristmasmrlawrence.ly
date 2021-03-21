@@ -94,7 +94,7 @@ upper = \relative des' {\key des \major \time 12/8 \clef treble \tempo 4.=64
 	<ees bes>8 <f c> <ees bes> <bes f> <ees bes>2~ |
 	<ees bes>4 <ees bes>8 <f c> <ees bes> <f c> <aes ees> <f c> |
 	<ees bes> <f c> <ees bes> <des aes> <bes f>2 |
-	ees8 c des f, ees c des c' |
+	\grace {c16 cis d} ees8 c des f, ees c des c' |
 	
 
   }
@@ -165,7 +165,17 @@ lower = \relative des' {\key des \major \time 12/8 \clef treble
 	bes, f' <f aes des> <f aes des> <f aes des> <f aes des> <f aes des> <f aes des> |
 	bes, <bes f' aes> <bes f' aes> <bes f' aes> <aes f' aes> <aes f' aes> <aes f' aes> <aes f' aes> |
 
+	<ges des'> des' <des bes'> <des bes'> <des bes'> <des bes'> <des bes'> <des bes'> |
+	<aes ees'> ges' <ges c> <ges c> <ges c> <ges c> <ges c> <ges c> |
+	<bes, f'> aes' <f aes des> <f aes des> <f aes des> <f aes des> <f aes des> <f aes des> |
+	bes, bes <bes f' aes> <bes f' aes> <bes f' aes> <bes f' aes> <bes f' aes> <bes f' aes> |
+	<ges des'> des' <des bes'> <des bes'> <des bes'> <des bes'> <des bes'> <des bes'> |
+	<aes ees'> ges' <ges c> <ges c> <ges c> <ges c> <ges c> <ges c> |
+	<bes, f'> <f' aes> <f aes des> <f aes des> <f aes des> <f aes des> <f aes des> <f aes des> |
+	bes, bes <bes f' aes> <bes f' aes> <aes des f aes> <aes des f aes> <aes des f aes> <aes des f aes> 
 
+
+	
 	
   }
 
