@@ -38,10 +38,11 @@ upper = \relative des' {\key des \major \time 12/8 \clef treble \tempo 4.=64
  
     <<{ees8 f ees bes ees2~}\\{bes2 <bes f>~}>>|
     <ees bes ees,>4 <ees bes>8 <f c> <ees bes> <f c> <aes ees> <f c>|
-    <ees bes> <f c> <ees bes> <des aes> <bes f>2~ | <bes f> c,4 des \bar "||"
-
-    <<{bes'8 aes bes aes~ aes bes4 bes8}\\{<ces, ees ges>4. <ces ees ges>8~ <ces ees ges>8 <ces ees ges>4 <ces ees ges>8~}>> |
-    <<{bes'8 aes bes aes~ aes bes aes ges}\\{<ces, ees ges>4. <ces ees ges>8~ <ces ees ges>8 <ces ees ges>4.}>>
+    <ees bes> <f c> <ees bes> <des aes> <bes f>2~ | <bes f> c,4-- des \bar "||"
+	
+	% measure33
+	<<{\voiceOne bes'8 aes bes} \new Voice {\voiceTwo <ces, ees ges>4.}>> <<{\voiceOne aes'8~ aes}\new Voice {\voiceTwo <ces, ees ges>8~ <ces ees ges>}>> <ces ees ges bes>4 <ces ees ges bes>8~\apeggio |
+	<<{bes'8 aes bes aes~ aes bes aes ges}\\{<ces, ees ges>4. <ces ees ges>8~ <ces ees ges>8 <ces ees ges>4.}>>
     <<{f8 ees f ees~ ees f4 f8}\\{<ges, bes des>4. <ges bes des>8~ <ges bes des> <ges bes des>4 <ges bes des>8}>> |
     <<{f'8 ees f ees~ ees4 f8 ges}\\{<ges, bes des>4. <ges bes des>8~ <ges bes des>2}>> |
     <<{bes'8 aes bes aes~ aes bes4 bes8~}\\{<ces, ees ges>4. <ces ees ges>8~ <ces ees ges>8 <ces ees ges>4 <ces ees ges>8~}>> |
@@ -128,33 +129,36 @@ upper = \relative des' {\key des \major \time 12/8 \clef treble \tempo 4.=64
   }
 
 lower = \relative des' {\key des \major \time 12/8 \clef treble
-    <ges' aes des>2. ~<ges aes des>2. |
+    %A
+	<ges' aes des>2. ~<ges aes des>2. |
     <ges aes bes c> ~<ges aes bes c> |
     <f aes bes c> ~<f aes bes c> |
-    <bes, f' aes c> <aes c des f> |
+    <bes, f' aes c>\arpeggio <aes c des f>\arpeggio |
     <ges' aes des>2. ~<ges aes des>2. |
-    <ges aes bes c> ~<ges aes bes c> |
-    <f aes bes c> ~<f aes bes c> |
-    <bes, f' aes c> ~<bes f' aes c> |
-    <ges aes des f> ~<ges aes des f> |
+    <ges aes bes c>\arpeggio ~<ges aes bes c> |
+    <f aes bes c>\arpeggio ~<f aes bes c> |
+    <bes, f' aes c>\arpeggio ~<bes f' aes c> |
+    <ges aes des f>\arpeggio ~<ges aes des f> |
     <ges aes c f> ~<ges aes c f> |
-    <f aes c ees>~ <f aes c ees> |
+    <f aes c ees>\arpeggio~ <f aes c ees> |
     <bes c des f c'> <aes c des f> |
     <ges aes des f> ~<ges aes des f> |
-    <ges aes c f> ~<ges aes c f> |
+    <ges aes c f>\arpeggio ~<ges aes c f> |
     <f aes c ees> ~<f aes c ees> |
-    <bes c des f c'> ~<bes c des f c'> |
+    <bes c des f c'>\arpeggio ~<bes c des f c'> |
 
     \time 4/4  \clef bass
-
+	%B
     <des,,, ges>1 | <aes' ges'> |
     bes4 f' aes2 | bes,4 bes' aes <f aes,> |
     <ges, des'>1 | <aes ges'> |
     bes4 f' <des aes'>2 | bes, <aes' c ees> |
+	
+	%C
     ges4 des' bes2 | <aes ees'>4 ges' c2 |
     bes,4 f' des'2 | bes,4 <bes' f> aes <f aes,> |
     ges,4 des' bes'2 | <aes, ees'>4 ges' c2 |
-    bes,4 f <aes des>2~ | <aes des>4 bes c des |
+    bes,4 f <aes des>2~ | <aes des>4 bes c-- des |
 	
 	bes'8 aes bes aes~ aes bes4 <aes, ees' bes'>8~ |
 	<aes ees' bes'> aes' bes aes~ aes bes aes ges |
