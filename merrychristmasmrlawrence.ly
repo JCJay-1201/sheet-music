@@ -203,11 +203,16 @@ lower = \relative des' {\key des \major \time 12/8 \clef treble
 	<<{f8 des' aes' des, ees, bes' g'4}\\{f,2 ees}>> |
 	<<{aes8 ees' aes4 aes,,8 aes'4.}\\{aes2 aes,}>> |
 
+	\repeat tremolo 8{ges32 ges'} \repeat tremolo 8{ges,32 ges'} |
+	\repeat tremolo 8{ges,32 ges'} \repeat tremolo 8{ges,32 ges'} |
+	\repeat tremolo 8{ges,32 ges'} \repeat tremolo 8{ges,32 ges'} |
+	\repeat tremolo 8{ges,32 ges'} \repeat tremolo 8{ges,32 ges'} |
+	\repeat tremolo 8{ges,32 ges'} \repeat tremolo 8{ges,32 ges'} |
+	\repeat tremolo 8{ges,32 ges'} \repeat tremolo 8{ges,32 ges'} |
+	\repeat tremolo 8{ges,32 ges'} \repeat tremolo 8{ges,32 ges'} |
+	\repeat tremolo 8{ges,32 ges'} \repeat tremolo 8{ges,32 ges'} |
 
-
-
-
-
+	<ges, ges'>1 |
 	
   }
 
