@@ -106,9 +106,16 @@ upper = \relative des' {\key des \major \time 12/8 \clef treble \tempo 4.=64
 	<ees bes> <f c> <ees bes> <des aes> <<{\voiceOne bes4. des8} \new Voice {\voiceTwo g,2}>> |
 	<<{\voiceOne bes4. aes8 aes4 f8 ees} \new Voice {\voiceTwo <ges c,>2 r4 <c, ges>}>> |
 
-
-
-
+	<f, bes f'>2 <f bes ees>|
+	<f bes> <<{\voiceOne <f bes>2} \new Voice{\voiceTwo \tuplet 3/2{c'4 f ees}}>> |
+	<f, bes f'>2 <f bes ees>|
+	<f bes> <<{\voiceOne <f bes>2} \new Voice{\voiceTwo \tuplet 3/2{c'4 f ees}}>> |
+	<f, bes f'>2 <f bes ees>|
+	<f bes> <<{\voiceOne <f bes>2} \new Voice{\voiceTwo \tuplet 3/2{c'4 f ees}}>> |
+	<f, bes ees f>2 <f bes ees>|
+	<f des' ees>2 <f c' ees>|
+	
+	<<{bes8 c~ c2.}\\{f,1}>>
 	
   }
 
