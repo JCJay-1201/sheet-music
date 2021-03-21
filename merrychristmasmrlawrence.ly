@@ -96,7 +96,17 @@ upper = \relative des' {\key des \major \time 12/8 \clef treble \tempo 4.=64
 	<ees bes> <f c> <ees bes> <des aes> <bes f>2 |
 	\grace {c16 cis d} ees8 c des f, ees c des c' |
 	
+	\ottava #0
+	<ees, bes>8 <f c> <ees bes> <bes f> <ees bes>2~ |
+	<ees bes>4 <ees bes>8 <f c> <ees bes> <f c> <aes ees> <f c> |
+	<ees bes> <f c> <ees bes> <bes f> <des aes>2 |
+	r4 <des f des'> <<{\voiceOne c'8 aes} \new Voice {\voiceTwo <f c>4}>> <f c>4 |
+	<<{\voiceOne bes,2} \new Voice {\voiceTwo ees8 f ees bes}>> <f ees' bes>2~ |
+	<f ees' bes>4 <ees' bes>8 <f c> <ees bes> <f c> <aes ees> <f c> |
 
+
+
+	
   }
 
 lower = \relative des' {\key des \major \time 12/8 \clef treble
