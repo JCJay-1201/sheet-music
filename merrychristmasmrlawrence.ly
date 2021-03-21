@@ -217,19 +217,25 @@ lower = \relative des' {\key des \major \time 12/8 \clef treble
   }
 
 chordsname = {\chordmode{
-	ges1 |
+	ges1.:7+ | aes:7/ges | f:m7 |
+	bes2.:m7  des:7+/aes |
+	ges1.:7+ | aes:7/ges | f:m7 | bes:m7 |
+	ges1.:7+ | aes:7/ges | f:m7 |
+	bes2.:m7  des:7+/aes |
+	ges1.:7+ | aes:7/ges | f:m7 | bes:m7 |
 
 	}}
 
 
-\score {
+\score {<<
+	\new ChordNames { \chordsname }
 	
-  \new PianoStaff <<
-    \set PianoStaff.instrumentName = #"Piano  "
-    \new Staff = "upper" \upper
-    \new Staff = "lower" \lower
+  	\new PianoStaff <<
+    	
+    	\new Staff \upper
+    	\new Staff \lower
     >>
-	
+	>>
     \layout {}
   \midi {}
 
