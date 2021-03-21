@@ -59,7 +59,6 @@ upper = \relative des' {\key des \major \time 12/8 \clef treble \tempo 4.=64
 	ees8 c des f, ees c des c'|
 	
 	\ottava #0
-	
 	<<{ees,8 f ees des ees2~}\\{bes2 <bes f>~}>> |
 	<ees bes f>4 <ees bes>8 <f c> <ees bes> <f c> <aes ees> <f c> |
 	<ees bes> <f c> <ees bes> <bes f> <aes des>2 |
@@ -77,6 +76,26 @@ upper = \relative des' {\key des \major \time 12/8 \clef treble \tempo 4.=64
 	<aes bes c f> <aes bes c f> <aes bes c f> <aes bes c f> <aes bes c f>4 <bes c ees aes> |
 	<c des ees aes>8 <c des ees aes> <c des ees aes> <c des ees aes> <c des ees aes> <c des ees aes> <des ees aes c>4 |
 	<des ees aes c>8 <des ees aes c> <des ees aes c> <des ees aes c> <aes' c des f>4 <f aes c ees> |
+	
+	<ees' bes>8 <f c> <ees bes> <bes f> <ees bes>2~ |
+	<ees bes>4 <ees bes>8 <f c> <ees bes> <f c> <aes ees> <f c> |
+	<ees bes> <f c> <ees bes> <bes f> <des aes>2 |
+	r4 <des f des'> <<{\voiceOne c'8 aes} \new Voice {\voiceTwo <f c>4}>> <f c>4 |
+	<ees bes>8 <f c> <ees bes> <bes f> <ees bes>2~ |
+	<ees bes>4 <ees bes>8 <f c> <ees bes> <f c> <aes ees> <f c> |
+	<ees bes> <f c> <ees bes> <des aes> <bes f>2 |
+	r4 <des bes' des> <des bes' des> <ees c' ees> |
+	
+	\ottava #1
+	<ees' bes>8 <f c> <ees bes> <bes f> <ees bes>2~ |
+	<ees bes>4 <ees bes>8 <f c> <ees bes> <f c> <aes ees> <f c> |
+	<ees bes> <f c> <ees bes> <bes f> <des aes>2 |
+	r4 <des f des'> <<{\voiceOne c'8 aes} \new Voice {\voiceTwo <f c>4}>> <f c>4 |
+	<ees bes>8 <f c> <ees bes> <bes f> <ees bes>2~ |
+	<ees bes>4 <ees bes>8 <f c> <ees bes> <f c> <aes ees> <f c> |
+	<ees bes> <f c> <ees bes> <des aes> <bes f>2 |
+	ees8 c des f, ees c des c' |
+	
 
   }
 
@@ -136,6 +155,18 @@ lower = \relative des' {\key des \major \time 12/8 \clef treble
 	<ges ees' ges> <ges ees' ges> <ges ees' ges> <ges ees' ges> <ges ees' ges> <ges ees' ges> <ges ees' ges> <ges ees' ges> |
 	<f c' f> <f c' f> <f c' f> <f c' f> <f c' f> <f c' f> <f c' f> <f c' f> |
 	<bes f' bes> <bes f' bes> <bes f' bes> <bes f' bes> <bes f' bes> <bes f' bes> <aes f' aes> <aes f' aes> |
+	
+	<ges ges'>8 des'' <des bes'> <des bes'> <des bes'> <des bes'> <des bes'> <des bes'> |
+	<aes ees'>8 ges' <ges c> <ges c> <ges c> <ges c> <ges c> <ges c> |
+	<bes, f'>8 f' <f aes des> <f aes des> <f aes des> <f aes des> <f aes des> <f aes des> |
+	bes, <bes f' aes> <bes f' aes> <bes f' aes> <aes f' aes> <aes f' aes> <aes f' aes> <aes f' aes> |
+	<ges des'> des' <des bes'> <des bes'> <des bes'> <des bes'> <des bes'> <des bes'> |
+	<aes ees'> ges' <ges c> <ges c> <ges c> <ges c> <ges c> <ges c> |
+	bes, f' <f aes des> <f aes des> <f aes des> <f aes des> <f aes des> <f aes des> |
+	bes, <bes f' aes> <bes f' aes> <bes f' aes> <aes f' aes> <aes f' aes> <aes f' aes> <aes f' aes> |
+
+
+	
   }
 
 \score {
